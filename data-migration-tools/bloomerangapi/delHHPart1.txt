@@ -1,0 +1,51 @@
+Account Number	Household Name	Name	Lookup	Sort Name	Primary Street	Latest Transaction Date	Sum of Amount of Transactions	Number of Transactions	Constituent Code	Classification	Created By	Created Date	Last Modified By	Last Modified Date
+32791	Darline Sigman	Darline Sigman	32791	"Sigman, Darline"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+32801	Eli Claire and Josephine None	Eli Claire and Josephine None	32801	"Claire, Eli and None, Josephine"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+32961	Nan Bowman	Nan Bowman	32961	"Bowman, Nan"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33128	Steve and Cecelia Poovey	Steve and Cecelia Poovey	33128	"Poovey, Steve and Cecelia"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33167	Sophie Tucker	Sophie Tucker	33167	"Tucker, Sophie"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33171	Martha Thompson	Martha Thompson	33171	"Thompson, Martha"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33208	Pat Sampson	Pat Sampson	33208	"Sampson, Pat"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33211	Leona O'Shea	Leona O'Shea	33211	"O'Shea, Leona"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33283	Lucille Hawkins	Lucille Hawkins	33283	"Hawkins, Lucille"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33291	Terry and Les Foster	Terry and Les Foster	33291	"Foster, Terry and Les"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33295	Reid and Natalie Parker	Reid and Natalie Parker	33295	"Parker, Reid and Natalie"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33322	Tim and Armstrong Faye	Tim and Armstrong Faye	33322	"Faye, Tim and Armstrong"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33331	Elizabeth Scott and William Minick	Elizabeth Scott and William Minick	33331	"Scott, Elizabeth and Minick, William"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33417	Jiri and Maggie Budinsky	Jiri and Maggie Budinsky	33417	"Budinsky, Jiri and Maggie"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33427	Jack and Mitzi Williams	Jack and Mitzi Williams	33427	"Williams, Jack and Mitzi"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33439	Lewis and Dorothy Camp	Lewis and Dorothy Camp	33439	"Camp, Lewis and Dorothy"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33442	JP Chang	JP Chang	33442	"Chang, JP"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33462	Fay McAlister	Fay McAlister	33462	"McAlister, Fay"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33468	Roger Mills and and Family	Roger Mills and and Family	33468	"Mills, Roger and Family, and"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33477	Blakeney and Rogers Family	Blakeney and Rogers Family	33477	"Family, Blakeney and Rogers"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33563	Lucy and Mary Herr	Lucy and Mary Herr	33563	"Herr, Lucy and Mary"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33594	Mitchell and Gladys Clark	Mitchell and Gladys Clark	33594	"Clark, Mitchell and Gladys"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+33708	Many Loaves and Fishes Volunteers	Many Loaves and Fishes Volunteers	33708	"Loaves, Many and Volunteers, Fishes"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34023	Dick Purves	Dick Purves	34023	"Purves, Dick"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34083	Keith and Marion Lane	Keith and Marion Lane	34083	"Lane, Keith and Marion"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34157	Urchen and Suse Beck	Urchen and Suse Beck	34157	"Beck, Urchen and Suse"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34160	Erna and Karl Kunz	Erna and Karl Kunz	34160	"Kunz, Erna and Karl"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34187	Simon Gene	Simon Gene	34187	"Gene, Simon"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34414	Marie Thomas	Marie Thomas	34414	"Thomas, Marie"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34549	Philip Piscitelli	Philip Piscitelli	34549	"Piscitelli, Philip"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34568	Anna Veit	Anna Veit	34568	"Veit, Anna"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34589	William Whitney	William Whitney	34589	"Whitney, William"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34673	Bill and Bernice Homer	Bill and Bernice Homer	34673	"Homer, Bill and Bernice"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34791	Ray Huey	Ray Huey	34791	"Huey, Ray"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34884	Rick and Nancy Vander Kaay	Rick and Nancy Vander Kaay	34884	"Vander Kaay, Rick and Nancy"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+34960	H.D. and Janice Efird	H.D. and Janice Efird	34960	"Efird, H.D. and Janice"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35000	Louise Williams	Louise Williams	35000	"Williams, Louise"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35009	John and Terrie Davis	John and Terrie Davis	35009	"Davis, John and Terrie"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35015	Bill and Joan Hickman	Bill and Joan Hickman	35015	"Hickman, Bill and Joan"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35021	Mary Ellen Cammeyer	Mary Ellen Cammeyer	35021	"Cammeyer, Mary Ellen"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35038	Loaves and Fishes Staff	Loaves and Fishes Staff	35038	"Staff, Loaves and Fishes"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35049	Ella and Millie Hazie	Ella and Millie Hazie	35049	"Hazie, Ella and Millie"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35089	John Rose	John Rose	35089	"Rose, John"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35111	Terry and Gail Thompson	Terry and Gail Thompson	35111	"Thompson, Terry and Gail"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35328	Paul and Ellen Lauria	Paul and Ellen Lauria	35328	"Lauria, Paul and Ellen"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35341	Markus Grindle and Danielle Mueller	Markus Grindle and Danielle Mueller	35341	"Grindle, Markus and Mueller, Danielle"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35385	Jason and Jennifer MacArthur	Jason and Jennifer MacArthur	35385	"MacArthur, Jason and Jennifer"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+35456	Max and Gray Shah-Khan	Max and Gray Shah-Khan	35456	"Shah-Khan, Max and Gray"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+48697	Sydney and Bonnie Vazquez	Sydney and Bonnie Vazquez	48697	"Vazquez, Sydney and Bonnie"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05
+49917	Chris and Anne Lam	Chris and Anne Lam	49917	"Lam, Chris and Anne"				0		Individual	[Conversion]	9/12/2022 14:05	[Conversion]	9/12/2022 14:05

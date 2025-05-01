@@ -1,0 +1,663 @@
+Account Number	Name	Sum of Amount of Transactions	Number of Transactions	Created By	Latest Transaction Date	Constituent Code	Classification	Household Name	Sort Name	Primary Street	Primary City	Primary State	Primary ZIP Code	Primary Email Address
+32172	Fishes Clients	removed	0	[Conversion]	removed		Individual		"Clients, Fishes"	removed	removed	removed	removed	removed
+10797	Linda Tetzlaff	removed	1	[Conversion]	removed		Individual		"Tetzlaff, Linda"	removed	removed	removed	removed	removed
+5505	"Carolina Foods, Inc."	removed	2	[Conversion]	removed		Corporation		"Carolina Foods, Inc."	removed	removed	removed	removed	removed
+18249	"Bedder, Bedder & Moore"	removed	2	[Conversion]	removed		Corporation		"Bedder, Bedder & Moore"	removed	removed	removed	removed	removed
+18833	"Lance, Inc."	removed	2	[Conversion]	removed		Corporation		"Lance, Inc."	removed	removed	removed	removed	removed
+19457	"TNT, Inc."	removed	2	[Conversion]	removed		Corporation		"TNT, Inc."	removed	removed	removed	removed	removed
+23416	Friend Riley	removed	2	[Conversion]	removed				"Riley, Friend"	removed	removed	removed	removed	removed
+4	Frances G. Smith	removed	6	[Conversion]	removed		Individual		"Smith, Frances G."	removed	removed	removed	removed	removed
+45	Louise Moore Plybon	removed	6	[Conversion]	removed		Individual		"Plybon, Louise Moore"	removed	removed	removed	removed	removed
+81	"Moore & Van Allen, PLLC"	removed	6	[Conversion]	removed		Corporation		"Moore & Van Allen, PLLC"	removed	removed	removed	removed	removed
+198	Elisabeth Hair	removed	6	[Conversion]	removed		Individual		"Hair, Elisabeth"	removed	removed	removed	removed	removed
+242	Esther Buckley	removed	6	[Conversion]	removed		Individual		"Buckley, Esther"	removed	removed	removed	removed	removed
+487	Jerry Thomas	removed	6	[Conversion]	removed		Individual		"Thomas, Jerry"	removed	removed	removed	removed	removed
+527	Charles Brown	removed	6	[Conversion]	removed		Individual		"Brown, Charles"	removed	removed	removed	removed	removed
+615	Phenicia Anderson	removed	6	[Conversion]	removed		Individual		"Anderson, Phenicia"	removed	removed	removed	removed	removed
+744	Douglas W. Timko	removed	6	[Conversion]	removed		Individual		"Timko, Douglas W."	removed	removed	removed	removed	removed
+841	Sarah McKeever	removed	6	[Conversion]	removed		Individual		"McKeever, Sarah"	removed	removed	removed	removed	removed
+911	Deborah Diane Griffin	removed	6	[Conversion]	removed		Individual		"Griffin, Deborah Diane"	removed	removed	removed	removed	removed
+1016	Mary Katherine Pennington	removed	6	[Conversion]	removed		Individual		"Pennington, Mary Katherine"	removed	removed	removed	removed	removed
+1050	Vineyard Community Church	removed	6	[Conversion]	removed		House of Faith		Vineyard Community Church	removed	removed	removed	removed	removed
+1266	Hilda P. Rutherford	removed	6	[Conversion]	removed		Individual		"Rutherford, Hilda P."	removed	removed	removed	removed	removed
+2050	Dawn McGinnis	removed	6	[Conversion]	removed		Individual		"McGinnis, Dawn"	removed	removed	removed	removed	removed
+2165	Noemi Santiago	removed	6	[Conversion]	removed		Individual		"Santiago, Noemi"	removed	removed	removed	removed	removed
+2270	Ellen W. Flamer	removed	6	[Conversion]	removed		Individual		"Flamer, Ellen W."	removed	removed	removed	removed	removed
+2534	Heather Harouff	removed	6	[Conversion]	removed		Individual		"Harouff, Heather"	removed	removed	removed	removed	removed
+2636	Belk at Northlake Mall	removed	6	[Conversion]	removed		Corporation		Belk at Northlake Mall	removed	removed	removed	removed	removed
+3472	Corinthian International	removed	6	[Conversion]	removed		Church/Community Organization|Corporation		Corinthian International	removed	removed	removed	removed	removed
+3633	Carolyn Kelly	removed	6	[Conversion]	removed		Individual		"Kelly, Carolyn"	removed	removed	removed	removed	removed
+4034	Wayne Perseille	removed	6	[Conversion]	removed		Individual		"Perseille, Wayne"	removed	removed	removed	removed	removed
+4210	Frances Plummer	removed	6	[Conversion]	removed		Individual		"Plummer, Frances"	removed	removed	removed	removed	removed
+4246	Frances Irwin	removed	6	[Conversion]	removed		Individual		"Irwin, Frances"	removed	removed	removed	removed	removed
+4344	Brian G. Lewis	removed	6	[Conversion]	removed		Individual		"Lewis, Brian G."	removed	removed	removed	removed	removed
+4460	The Business Journal of Charlotte	removed	6	[Conversion]	removed	Media	Corporation		The Business Journal of Charlotte	removed	removed	removed	removed	removed
+4578	Jill L. Palmer	removed	6	[Conversion]	removed		Individual		"Palmer, Jill L."	removed	removed	removed	removed	removed
+4647	Sharon McCarthy	removed	6	[Conversion]	removed		Individual		"McCarthy, Sharon"	removed	removed	removed	removed	removed
+5144	Tom Gettys	removed	6	[Conversion]	removed		Individual		"Gettys, Tom"	removed	removed	removed	removed	removed
+5270	Eldon Goble	removed	6	[Conversion]	removed		Individual		"Goble, Eldon"	removed	removed	removed	removed	removed
+6466	Lance Crayton	removed	6	[Conversion]	removed		Individual		"Crayton, Lance"	removed	removed	removed	removed	removed
+6486	William S. Crowley	removed	6	[Conversion]	removed		Individual		"Crowley, William S."	removed	removed	removed	removed	removed
+6772	Newell Rubbermaid	removed	6	[Conversion]	removed		Corporation		Newell Rubbermaid	removed	removed	removed	removed	removed
+6803	Gene Snyder	removed	6	[Conversion]	removed		Individual		"Snyder, Gene"	removed	removed	removed	removed	removed
+7003	Jimmy W. Rhodes	removed	6	[Conversion]	removed		Individual		"Rhodes, Jimmy W."	removed	removed	removed	removed	removed
+7123	Terry M. Smith	removed	6	[Conversion]	removed		Individual		"Smith, Terry M."	removed	removed	removed	removed	removed
+7331	"Tex America, Inc."	removed	6	[Conversion]	removed		Corporation		"Tex America, Inc."	removed	removed	removed	removed	removed
+7657	Amanda Vargo	removed	6	[Conversion]	removed		Individual		"Vargo, Amanda"	removed	removed	removed	removed	removed
+9005	Gabrielle Macon	removed	6	[Conversion]	removed		Individual		"Macon, Gabrielle"	removed	removed	removed	removed	removed
+9164	Dorothy Bailey	removed	6	[Conversion]	removed		Individual		"Bailey, Dorothy"	removed	removed	removed	removed	removed
+9996	Melissa Stone	removed	6	[Conversion]	removed		Individual		"Stone, Melissa"	removed	removed	removed	removed	removed
+10331	Betty Nisbet	removed	6	[Conversion]	removed		Individual		"Nisbet, Betty"	removed	removed	removed	removed	removed
+10661	Candice Hall	removed	6	[Conversion]	removed		Individual		"Hall, Candice"	removed	removed	removed	removed	removed
+11643	Craig Avenue Tabernacle A.R.P.	removed	6	[Conversion]	removed		House of Faith		Craig Avenue Tabernacle A.R.P.	removed	removed	removed	removed	removed
+12120	New Fellowship Worship Center	removed	6	[Conversion]	removed		House of Faith		New Fellowship Worship Center	removed	removed	removed	removed	removed
+12311	Pat Eskew	removed	6	[Conversion]	removed		Individual		"Eskew, Pat"	removed	removed	removed	removed	removed
+13066	Jean Dunham	removed	6	[Conversion]	removed		Individual		"Dunham, Jean"	removed	removed	removed	removed	removed
+13171	Adventist Christian Academy	removed	6	[Conversion]	removed		House of Faith		Adventist Christian Academy	removed	removed	removed	removed	removed
+14028	Audrey Allen	removed	6	[Conversion]	removed		Individual		"Allen, Audrey"	removed	removed	removed	removed	removed
+14143	Barbara H. Baxter	removed	6	[Conversion]	removed		Individual		"Baxter, Barbara H."	removed	removed	removed	removed	removed
+14284	Richmond H. Stowe	removed	6	[Conversion]	removed		Individual		"Stowe, Richmond H."	removed	removed	removed	removed	removed
+14292	Joseph Juneman	removed	6	[Conversion]	removed		Individual		"Juneman, Joseph"	removed	removed	removed	removed	removed
+14346	Jane Yarbrough	removed	6	[Conversion]	removed		Individual		"Yarbrough, Jane"	removed	removed	removed	removed	removed
+14374	Sherry R. Henderson	removed	6	[Conversion]	removed		Individual		"Henderson, Sherry R."	removed	removed	removed	removed	removed
+14454	Keith Bayless	removed	6	[Conversion]	removed		Individual		"Bayless, Keith"	removed	removed	removed	removed	removed
+14509	Strickland and Company	removed	6	[Conversion]	removed		Corporation		Strickland and Company	removed	removed	removed	removed	removed
+14575	Lincoln Heights Academy	removed	6	[Conversion]	removed	School	Organization		Lincoln Heights Academy	removed	removed	removed	removed	removed
+14634	James Martin Middle School	removed	6	[Conversion]	removed	School	Organization		James Martin Middle School	removed	removed	removed	removed	removed
+14910	Brian Coleman	removed	6	[Conversion]	removed		Individual		"Coleman, Brian"	removed	removed	removed	removed	removed
+15024	Computer Consulting Services	removed	6	[Conversion]	removed		Corporation		Computer Consulting Services	removed	removed	removed	removed	removed
+15126	Tryon Hills Pre-K Center	removed	6	[Conversion]	removed	School	Organization		Tryon Hills Pre-K Center	removed	removed	removed	removed	removed
+15142	University Park Creative Arts Elementary School	removed	6	[Conversion]	removed	School	Organization		University Park Creative Arts Elementary School	removed	removed	removed	removed	removed
+15170	Alice Batson	removed	6	[Conversion]	removed		Individual		"Batson, Alice"	removed	removed	removed	removed	removed
+15369	Charlotte Lutheran School	removed	6	[Conversion]	removed	School	Organization		Charlotte Lutheran School	removed	removed	removed	removed	removed
+15390	Joseph A. Kenny	removed	6	[Conversion]	removed		Individual		"Kenny, Joseph A."	removed	removed	removed	removed	removed
+15549	William Paules	removed	6	[Conversion]	removed		Individual		"Paules, William"	removed	removed	removed	removed	removed
+15601	Nelle Rose Jones	removed	6	[Conversion]	removed		Individual		"Jones, Nelle Rose"	removed	removed	removed	removed	removed
+15648	Ann M. Seagrave	removed	6	[Conversion]	removed		Individual		"Seagrave, Ann M."	removed	removed	removed	removed	removed
+15737	Ann White	removed	6	[Conversion]	removed		Individual		"White, Ann"	removed	removed	removed	removed	removed
+16070	Marilyn Valeo	removed	6	[Conversion]	removed		Individual		"Valeo, Marilyn"	removed	removed	removed	removed	removed
+16238	Frederic J. Templeman	removed	6	[Conversion]	removed		Individual		"Templeman, Frederic J."	removed	removed	removed	removed	removed
+16467	Michael B. Nash	removed	6	[Conversion]	removed		Individual		"Nash, Michael B."	removed	removed	removed	removed	removed
+16619	Betty R. McArtan	removed	6	[Conversion]	removed		Individual		"McArtan, Betty R."	removed	removed	removed	removed	removed
+16656	Juda Edwards	removed	6	[Conversion]	removed		Individual		"Edwards, Juda"	removed	removed	removed	removed	removed
+16662	Don Liotta	removed	6	[Conversion]	removed		Individual		"Liotta, Don"	removed	removed	removed	removed	removed
+16899	Wedgewood Baptist Church	removed	6	[Conversion]	removed		House of Faith		Wedgewood Baptist Church	removed	removed	removed	removed	removed
+16931	Holly Hunter Baptist Church	removed	6	[Conversion]	removed		House of Faith		Holly Hunter Baptist Church	removed	removed	removed	removed	removed
+16933	Jeanne Ellen Hicks	removed	6	[Conversion]	removed		Individual		"Hicks, Jeanne Ellen"	removed	removed	removed	removed	removed
+17056	"McNeary Insurance Consulting, Inc."	removed	6	[Conversion]	removed		Corporation		"McNeary Insurance Consulting, Inc."	removed	removed	removed	removed	removed
+17107	Barbara B. Proffitt	removed	6	[Conversion]	removed		Individual		"Proffitt, Barbara B."	removed	removed	removed	removed	removed
+17237	Alice S. Byram	removed	6	[Conversion]	removed		Individual		"Byram, Alice S."	removed	removed	removed	removed	removed
+17251	Sarah H. Schell	removed	6	[Conversion]	removed		Individual		"Schell, Sarah H."	removed	removed	removed	removed	removed
+17321	David E. Hipp Jr.	removed	6	[Conversion]	removed		Individual		"Hipp, David E. Jr."	removed	removed	removed	removed	removed
+17394	Allison Merriman	removed	6	[Conversion]	removed		Individual		"Merriman, Allison"	removed	removed	removed	removed	removed
+17418	Elizabeth Waples	removed	6	[Conversion]	removed		Individual		"Waples, Elizabeth"	removed	removed	removed	removed	removed
+17423	Rebecca Jilcott	removed	6	[Conversion]	removed		Individual		"Jilcott, Rebecca"	removed	removed	removed	removed	removed
+17453	Suzanne Morgan	removed	6	[Conversion]	removed		Individual		"Morgan, Suzanne"	removed	removed	removed	removed	removed
+17537	Mindy C. Felcman	removed	6	[Conversion]	removed		Individual		"Felcman, Mindy C."	removed	removed	removed	removed	removed
+17805	Johnny C. Phifer	removed	6	[Conversion]	removed		Individual		"Phifer, Johnny C."	removed	removed	removed	removed	removed
+17858	John B. McLaughlin	removed	6	[Conversion]	removed		Individual		"McLaughlin, John B."	removed	removed	removed	removed	removed
+17928	Darrell M. Bordner	removed	6	[Conversion]	removed		Individual		"Bordner, Darrell M."	removed	removed	removed	removed	removed
+17943	Richard L. Mappes	removed	6	[Conversion]	removed		Individual		"Mappes, Richard L."	removed	removed	removed	removed	removed
+18038	Frances M. Walker	removed	6	[Conversion]	removed		Individual		"Walker, Frances M."	removed	removed	removed	removed	removed
+18371	Carl Russo	removed	6	[Conversion]	removed		Individual		"Russo, Carl"	removed	removed	removed	removed	removed
+18449	Virginia Doman	removed	6	[Conversion]	removed		Individual		"Doman, Virginia"	removed	removed	removed	removed	removed
+18605	Ann P. Berrier	removed	6	[Conversion]	removed		Individual		"Berrier, Ann P."	removed	removed	removed	removed	removed
+18657	"Bobcats Charitable Foundation, Inc."	removed	6	[Conversion]	removed		Corporation		"Bobcats Charitable Foundation, Inc."	removed	removed	removed	removed	removed
+18710	J.M. Smith Foundation	removed	6	[Conversion]	removed		Foundation		J.M. Smith Foundation	removed	removed	removed	removed	removed
+18810	Peggy Irons	removed	6	[Conversion]	removed		Individual		"Irons, Peggy"	removed	removed	removed	removed	removed
+19195	Thomasina W. Wilson	removed	6	[Conversion]	removed		Individual		"Wilson, Thomasina W."	removed	removed	removed	removed	removed
+19281	William E. Scherrer	removed	6	[Conversion]	removed		Individual		"Scherrer, William E."	removed	removed	removed	removed	removed
+19367	Vernon Carre	removed	6	[Conversion]	removed		Individual		"Carre, Vernon"	removed	removed	removed	removed	removed
+19507	Belk at SouthPark Mall	removed	6	[Conversion]	removed		Corporation		Belk at SouthPark Mall	removed	removed	removed	removed	removed
+19733	Norman Steinberger	removed	6	[Conversion]	removed		Individual		"Steinberger, Norman"	removed	removed	removed	removed	removed
+19927	Robinson Presbyterian Church	removed	6	[Conversion]	removed		House of Faith		Robinson Presbyterian Church	removed	removed	removed	removed	removed
+20089	Diann Holt	removed	6	[Conversion]	removed		Individual		"Holt, Diann"	removed	removed	removed	removed	removed
+20581	Chris A. Connor	removed	6	[Conversion]	removed		Individual		"Connor, Chris A."	removed	removed	removed	removed	removed
+20640	Julia S. Angell	removed	6	[Conversion]	removed		Individual		"Angell, Julia S."	removed	removed	removed	removed	removed
+20666	Thrivent Financial for Lutherans	removed	6	[Conversion]	removed		Corporation		Thrivent Financial for Lutherans	removed	removed	removed	removed	removed
+20685	Dave Biondo	removed	6	[Conversion]	removed		Individual		"Biondo, Dave"	removed	removed	removed	removed	removed
+20815	Katherine Killingsworth	removed	6	[Conversion]	removed		Individual		"Killingsworth, Katherine"	removed	removed	removed	removed	removed
+20838	Susan Isbell	removed	6	[Conversion]	removed		Individual		"Isbell, Susan"	removed	removed	removed	removed	removed
+61575	Fay C. Green	removed	6	[Conversion]	removed		Individual		"Green, Fay C."	removed	removed	removed	removed	removed
+62181	Ethel B. McNair	removed	6	[Conversion]	removed		Individual		"McNair, Ethel B."	removed	removed	removed	removed	removed
+63095	Carolyne Wilson	removed	6	[Conversion]	removed		Individual		"Wilson, Carolyne"	removed	removed	removed	removed	removed
+63271	Wachovia Bank	removed	6	[Conversion]	removed		Business/Corporation		Wachovia Bank	removed	removed	removed	removed	removed
+64103	Clanton Presbyterian Church Mission	removed	6	[Conversion]	removed		Church/Community Organization		Clanton Presbyterian Church Mission	removed	removed	removed	removed	removed
+64392	Eilia E. Mooney	removed	6	[Conversion]	removed		Individual		"Mooney, Eilia E."	removed	removed	removed	removed	removed
+64570	Harold J. Shaffer	removed	6	[Conversion]	removed		Individual		"Shaffer, Harold J."	removed	removed	removed	removed	removed
+64597	Penny R. Stewart	removed	6	[Conversion]	removed		Individual		"Stewart, Penny R."	removed	removed	removed	removed	removed
+64880	Eugenia C. Allen	removed	6	[Conversion]	removed		Individual		"Allen, Eugenia C."	removed	removed	removed	removed	removed
+65210	Marjorie Cross	removed	6	[Conversion]	removed		Individual		"Cross, Marjorie"	removed	removed	removed	removed	removed
+65398	Charles A. Cotten	removed	6	[Conversion]	removed		Individual		"Cotten, Charles A."	removed	removed	removed	removed	removed
+65595	Margaret Nelson	removed	6	[Conversion]	removed		Individual		"Nelson, Margaret"	removed	removed	removed	removed	removed
+65627	Mary Elizabeth Loughery	removed	6	[Conversion]	removed		Individual		"Loughery, Mary Elizabeth"	removed	removed	removed	removed	removed
+66369	Betty M. Acuff	removed	6	[Conversion]	removed		Individual		"Acuff, Betty M."	removed	removed	removed	removed	removed
+66735	Edward W. Gormley	removed	6	[Conversion]	removed		Individual		"Gormley, Edward W."	removed	removed	removed	removed	removed
+67075	Robert R. Wells	removed	6	[Conversion]	removed		Individual		"Wells, Robert R."	removed	removed	removed	removed	removed
+67386	Susan Domenech	removed	6	[Conversion]	removed		Individual		"Domenech, Susan"	removed	removed	removed	removed	removed
+67561	Luz Amparo Gordon	removed	6	[Conversion]	removed		Individual		"Gordon, Luz Amparo"	removed	removed	removed	removed	removed
+69477	Joanne Papa	removed	6	[Conversion]	removed		Individual		"Papa, Joanne"	removed	removed	removed	removed	removed
+8	Nancy Langston	removed	7	[Conversion]	removed		Individual		"Langston, Nancy"	removed	removed	removed	removed	removed
+10	Mary Anne Sledge	removed	7	[Conversion]	removed		Individual		"Sledge, Mary Anne"	removed	removed	removed	removed	removed
+57	Louise H. Ross	removed	7	[Conversion]	removed		Individual		"Ross, Louise H."	removed	removed	removed	removed	removed
+73	Hickory Grove Baptist Christian School	removed	7	[Conversion]	removed	School	Organization		Hickory Grove Baptist Christian School	removed	removed	removed	removed	removed
+99	Dorothy Chamness	removed	7	[Conversion]	removed		Individual		"Chamness, Dorothy"	removed	removed	removed	removed	removed
+274	Barbara Rouse	removed	7	[Conversion]	removed		Individual		"Rouse, Barbara"	removed	removed	removed	removed	removed
+1163	James T. Trotter	removed	7	[Conversion]	removed		Individual		"Trotter, James T."	removed	removed	removed	removed	removed
+1715	Eleanor Kunath	removed	7	[Conversion]	removed		Individual		"Kunath, Eleanor"	removed	removed	removed	removed	removed
+1938	Evalyn Knox	removed	7	[Conversion]	removed		Individual		"Knox, Evalyn"	removed	removed	removed	removed	removed
+2182	Catherine McKinney	removed	7	[Conversion]	removed		Individual		"McKinney, Catherine"	removed	removed	removed	removed	removed
+2189	Robyn Hill	removed	7	[Conversion]	removed		Individual		"Hill, Robyn"	removed	removed	removed	removed	removed
+2435	Melissa R. Dickinson	removed	7	[Conversion]	removed		Individual		"Dickinson, Melissa R."	removed	removed	removed	removed	removed
+2525	Rise Ward	removed	7	[Conversion]	removed		Individual		"Ward, Rise"	removed	removed	removed	removed	removed
+3433	Home Economist Grocery	removed	7	[Conversion]	removed		Corporation		Home Economist Grocery	removed	removed	removed	removed	removed
+3603	Fredericka Bryant	removed	7	[Conversion]	removed		Individual		"Bryant, Fredericka"	removed	removed	removed	removed	removed
+3781	Frank LaPointe	removed	7	[Conversion]	removed		Individual		"LaPointe, Frank"	removed	removed	removed	removed	removed
+3856	Bobbie Elrich	removed	7	[Conversion]	removed		Individual		"Elrich, Bobbie"	removed	removed	removed	removed	removed
+3877	Patrick Pinder	removed	7	[Conversion]	removed		Individual		"Pinder, Patrick"	removed	removed	removed	removed	removed
+4061	Brevard Myers	removed	7	[Conversion]	removed		Individual		"Myers, Brevard"	removed	removed	removed	removed	removed
+4369	Craig Lynch	removed	7	[Conversion]	removed		Individual		"Lynch, Craig"	removed	removed	removed	removed	removed
+4997	Howard Martin Jr.	removed	7	[Conversion]	removed		Individual		"Martin, Howard Jr."	removed	removed	removed	removed	removed
+5024	Susan Barber	removed	7	[Conversion]	removed		Individual		"Barber, Susan"	removed	removed	removed	removed	removed
+5737	The Walter G. Canipe Foundation	removed	7	[Conversion]	removed		Foundation		The Walter G. Canipe Foundation	removed	removed	removed	removed	removed
+6347	Fifth Dimension Sunday School Class	removed	7	[Conversion]	removed		Church/Community Organization|House of Faith		Fifth Dimension Sunday School Class	removed	removed	removed	removed	removed
+6584	Price-McNabb	removed	7	[Conversion]	removed		Corporation		Price-McNabb	removed	removed	removed	removed	removed
+7953	Alicia R. Jesso	removed	7	[Conversion]	removed		Individual		"Jesso, Alicia R."	removed	removed	removed	removed	removed
+8290	Linda Middleton	removed	7	[Conversion]	removed		Individual		"Middleton, Linda"	removed	removed	removed	removed	removed
+8853	Susan Coverdale	removed	7	[Conversion]	removed		Individual		"Coverdale, Susan"	removed	removed	removed	removed	removed
+8906	V.L. Keitz	removed	7	[Conversion]	removed		Individual		"Keitz, V.L."	removed	removed	removed	removed	removed
+9080	Bernstein Family Foundation	removed	7	[Conversion]	removed	Family Foundation	Foundation		Bernstein Family Foundation	removed	removed	removed	removed	removed
+9678	Martha Ayers	removed	7	[Conversion]	removed		Individual		"Ayers, Martha"	removed	removed	removed	removed	removed
+9764	Sara Guastaferro	removed	7	[Conversion]	removed		Individual		"Guastaferro, Sara"	removed	removed	removed	removed	removed
+10360	Janette Beaver	removed	7	[Conversion]	removed		Individual		"Beaver, Janette"	removed	removed	removed	removed	removed
+10503	William A. Nichols	removed	7	[Conversion]	removed		Individual		"Nichols, William A."	removed	removed	removed	removed	removed
+10517	Marion Bigham	removed	7	[Conversion]	removed		Individual		"Bigham, Marion"	removed	removed	removed	removed	removed
+10559	William Crowley	removed	7	[Conversion]	removed		Individual		"Crowley, William"	removed	removed	removed	removed	removed
+11052	Medi Weight Loss Clinic	removed	7	[Conversion]	removed		Corporation		Medi Weight Loss Clinic	removed	removed	removed	removed	removed
+12861	"My Christ Jesus Outfitters, Inc."	removed	7	[Conversion]	removed		Corporation		"My Christ Jesus Outfitters, Inc."	removed	removed	removed	removed	removed
+14032	Mary Grauer	removed	7	[Conversion]	removed		Individual		"Grauer, Mary"	removed	removed	removed	removed	removed
+14174	Virginia F. Floyd	removed	7	[Conversion]	removed		Individual		"Floyd, Virginia F."	removed	removed	removed	removed	removed
+14210	Turning Point Academy	removed	7	[Conversion]	removed		Organization		Turning Point Academy	removed	removed	removed	removed	removed
+14337	Greenway Park Elementary School	removed	7	[Conversion]	removed	School	Organization		Greenway Park Elementary School	removed	removed	removed	removed	removed
+14504	Elizabeth Lott	removed	7	[Conversion]	removed		Individual		"Lott, Elizabeth"	removed	removed	removed	removed	removed
+14764	Newell Elementary School	removed	7	[Conversion]	removed	School	Organization		Newell Elementary School	removed	removed	removed	removed	removed
+14816	Frances P. Cameron	removed	7	[Conversion]	removed		Individual		"Cameron, Frances P."	removed	removed	removed	removed	removed
+14959	Erika R. Mattucci	removed	7	[Conversion]	removed		Individual		"Mattucci, Erika R."	removed	removed	removed	removed	removed
+15168	West Charlotte High School	removed	7	[Conversion]	removed	School	Organization		West Charlotte High School	removed	removed	removed	removed	removed
+15202	Wilson Middle School	removed	7	[Conversion]	removed	School	Organization		Wilson Middle School	removed	removed	removed	removed	removed
+15389	Sybil L. Youngblood	removed	7	[Conversion]	removed		Individual		"Youngblood, Sybil L."	removed	removed	removed	removed	removed
+15523	United Way	removed	7	[Conversion]	removed		Organization		United Way	removed	removed	removed	removed	removed
+15822	Evelyn S. Wilson	removed	7	[Conversion]	removed		Individual		"Wilson, Evelyn S."	removed	removed	removed	removed	removed
+15889	St. Phillip Baptist Church	removed	7	[Conversion]	removed		House of Faith		St. Phillip Baptist Church	removed	removed	removed	removed	removed
+15968	Michelle C. Hartzell	removed	7	[Conversion]	removed		Individual		"Hartzell, Michelle C."	removed	removed	removed	removed	removed
+16122	Margaret O. Newland	removed	7	[Conversion]	removed		Individual		"Newland, Margaret O."	removed	removed	removed	removed	removed
+16209	Sandra L. Tarlton	removed	7	[Conversion]	removed		Individual		"Tarlton, Sandra L."	removed	removed	removed	removed	removed
+16258	Ann K. Covington	removed	7	[Conversion]	removed		Individual		"Covington, Ann K."	removed	removed	removed	removed	removed
+16607	New Life Baptist Church	removed	7	[Conversion]	removed		House of Faith		New Life Baptist Church	removed	removed	removed	removed	removed
+16700	Morgan School	removed	7	[Conversion]	removed	School	Organization		Morgan School	removed	removed	removed	removed	removed
+16789	Jennifer M. Clapp	removed	7	[Conversion]	removed		Individual		"Clapp, Jennifer M."	removed	removed	removed	removed	removed
+16917	Mary F. Martin	removed	7	[Conversion]	removed		Individual		"Martin, Mary F."	removed	removed	removed	removed	removed
+16956	Julia B. Isbell	removed	7	[Conversion]	removed		Individual		"Isbell, Julia B."	removed	removed	removed	removed	removed
+17036	Pamela J. Brown	removed	7	[Conversion]	removed		Individual		"Brown, Pamela J."	removed	removed	removed	removed	removed
+17079	Betty Eason	removed	7	[Conversion]	removed		Individual		"Eason, Betty"	removed	removed	removed	removed	removed
+17216	Land Matters	removed	7	[Conversion]	removed		Corporation		Land Matters	removed	removed	removed	removed	removed
+17332	Harriette R. Bobbitt	removed	7	[Conversion]	removed		Individual		"Bobbitt, Harriette R."	removed	removed	removed	removed	removed
+17421	Opal D. Kirby	removed	7	[Conversion]	removed		Individual		"Kirby, Opal D."	removed	removed	removed	removed	removed
+17426	Janie H. Brandon	removed	7	[Conversion]	removed		Individual		"Brandon, Janie H."	removed	removed	removed	removed	removed
+17551	Joyce McLean	removed	7	[Conversion]	removed		Individual		"McLean, Joyce"	removed	removed	removed	removed	removed
+17564	Tony King	removed	7	[Conversion]	removed		Individual		"King, Tony"	removed	removed	removed	removed	removed
+17953	Marjorie J. Hefferon	removed	7	[Conversion]	removed		Individual		"Hefferon, Marjorie J."	removed	removed	removed	removed	removed
+18282	Good Shepherd Lutheran Church	removed	7	[Conversion]	removed		House of Faith		Good Shepherd Lutheran Church	removed	removed	removed	removed	removed
+18393	Peggy A. Jennings	removed	7	[Conversion]	removed		Individual		"Jennings, Peggy A."	removed	removed	removed	removed	removed
+18405	Christina L. Depew	removed	7	[Conversion]	removed		Individual		"Depew, Christina L."	removed	removed	removed	removed	removed
+18515	William D. Childers	removed	7	[Conversion]	removed		Individual		"Childers, William D."	removed	removed	removed	removed	removed
+18597	W.E. Selvey	removed	7	[Conversion]	removed		Individual		"Selvey, W.E."	removed	removed	removed	removed	removed
+19411	Ronald E. Bishop	removed	7	[Conversion]	removed		Individual		"Bishop, Ronald E."	removed	removed	removed	removed	removed
+19417	Freedom Presbyterian Church	removed	7	[Conversion]	removed		House of Faith		Freedom Presbyterian Church	removed	removed	removed	removed	removed
+19435	Geraldeen F. Paris	removed	7	[Conversion]	removed		Individual		"Paris, Geraldeen F."	removed	removed	removed	removed	removed
+19574	Christ Presbyterian Church	removed	7	[Conversion]	removed		House of Faith		Christ Presbyterian Church	removed	removed	removed	removed	removed
+19754	Frances Henry	removed	7	[Conversion]	removed		Individual		"Henry, Frances"	removed	removed	removed	removed	removed
+20059	James M. Doyle	removed	7	[Conversion]	removed		Individual		"Doyle, James M."	removed	removed	removed	removed	removed
+20455	Kedrick Lewis	removed	7	[Conversion]	removed		Individual		"Lewis, Kedrick"	removed	removed	removed	removed	removed
+20544	C.A. Seawright	removed	7	[Conversion]	removed		Individual		"Seawright, C.A."	removed	removed	removed	removed	removed
+20553	Janie Alexander	removed	7	[Conversion]	removed		Individual		"Alexander, Janie"	removed	removed	removed	removed	removed
+20608	Margaret Vanderveer	removed	7	[Conversion]	removed		Individual		"Vanderveer, Margaret"	removed	removed	removed	removed	removed
+20656	Margaret B. Armstrong	removed	7	[Conversion]	removed		Individual		"Armstrong, Margaret B."	removed	removed	removed	removed	removed
+20804	Gertrude T. Lacy	removed	7	[Conversion]	removed		Individual		"Lacy, Gertrude T."	removed	removed	removed	removed	removed
+20944	Sara W. Boling	removed	7	[Conversion]	removed		Individual		"Boling, Sara W."	removed	removed	removed	removed	removed
+60763	Madeleine M. Albers	removed	7	[Conversion]	removed		Individual		"Albers, Madeleine M."	removed	removed	removed	removed	removed
+60821	Christine H. Autry	removed	7	[Conversion]	removed		Individual		"Autry, Christine H."	removed	removed	removed	removed	removed
+60888	Natascha A. Bechtler	removed	7	[Conversion]	removed		Individual		"Bechtler, Natascha A."	removed	removed	removed	removed	removed
+62451	Linda F. Perkins	removed	7	[Conversion]	removed		Individual		"Perkins, Linda F."	removed	removed	removed	removed	removed
+62565	Donald S. Redding Sr.	removed	7	[Conversion]	removed		Individual		"Redding, Donald S. Sr."	removed	removed	removed	removed	removed
+62652	Brian E. Rowe	removed	7	[Conversion]	removed		Individual		"Rowe, Brian E."	removed	removed	removed	removed	removed
+62901	E.A. Terrell Jr.	removed	7	[Conversion]	removed		Individual		"Terrell, E.A. Jr."	removed	removed	removed	removed	removed
+63310	Barbara S. Schill	removed	7	[Conversion]	removed		Individual		"Schill, Barbara S."	removed	removed	removed	removed	removed
+63861	Hickory Grove Presbyterian Church	removed	7	[Conversion]	removed		Church/Community Organization		Hickory Grove Presbyterian Church	removed	removed	removed	removed	removed
+64080	Providence Veterinary Associates	removed	7	[Conversion]	removed		Business/Corporation		Providence Veterinary Associates	removed	removed	removed	removed	removed
+64130	Barbara J. Gotherman	removed	7	[Conversion]	removed		Individual		"Gotherman, Barbara J."	removed	removed	removed	removed	removed
+64756	Morris S. Patton	removed	7	[Conversion]	removed		Individual		"Patton, Morris S."	removed	removed	removed	removed	removed
+65225	Elliot R. Motley DDS	removed	7	[Conversion]	removed		Individual		"Motley, Elliot R. DDS"	removed	removed	removed	removed	removed
+65292	Earlyne Reese	removed	7	[Conversion]	removed		Individual		"Reese, Earlyne"	removed	removed	removed	removed	removed
+65505	Vickie K. Mills	removed	7	[Conversion]	removed		Individual		"Mills, Vickie K."	removed	removed	removed	removed	removed
+66192	Noah B. Lane	removed	7	[Conversion]	removed		Individual		"Lane, Noah B."	removed	removed	removed	removed	removed
+66211	Pamela S. Morton	removed	7	[Conversion]	removed		Individual		"Morton, Pamela S."	removed	removed	removed	removed	removed
+66551	Roger R. Whittecar	removed	7	[Conversion]	removed		Individual		"Whittecar, Roger R."	removed	removed	removed	removed	removed
+66864	Sue A. Ezell	removed	7	[Conversion]	removed		Individual		"Ezell, Sue A."	removed	removed	removed	removed	removed
+67604	Cecille L. Rosenbaum	removed	7	[Conversion]	removed		Individual		"Rosenbaum, Cecille L."	removed	removed	removed	removed	removed
+67626	Bonnie W. Knowles	removed	7	[Conversion]	removed		Individual		"Knowles, Bonnie W."	removed	removed	removed	removed	removed
+68144	George Stradford	removed	7	[Conversion]	removed		Individual		"Stradford, George"	removed	removed	removed	removed	removed
+2	Daniel McNeill	removed	8	[Conversion]	removed		Individual		"McNeill, Daniel"	removed	removed	removed	removed	removed
+307	ITT Hartford	removed	8	[Conversion]	removed		Corporation		ITT Hartford	removed	removed	removed	removed	removed
+761	Virginia Lorelle Martin	removed	8	[Conversion]	removed		Individual		"Martin, Virginia Lorelle"	removed	removed	removed	removed	removed
+969	Hearts With Hands	removed	8	[Conversion]	removed		Organization		Hearts With Hands	removed	removed	removed	removed	removed
+1065	Brian Robinson	removed	8	[Conversion]	removed		Individual		"Robinson, Brian"	removed	removed	removed	removed	removed
+1589	Richard R. Harkness	removed	8	[Conversion]	removed		Individual		"Harkness, Richard R."	removed	removed	removed	removed	removed
+1678	Kent Hathaway	removed	8	[Conversion]	removed		Individual		"Hathaway, Kent"	removed	removed	removed	removed	removed
+2724	Grace E. Saylor	removed	8	[Conversion]	removed		Individual		"Saylor, Grace E."	removed	removed	removed	removed	removed
+2803	Lisa Coleman	removed	8	[Conversion]	removed		Individual		"Coleman, Lisa"	removed	removed	removed	removed	removed
+2862	Anna Harper	removed	8	[Conversion]	removed		Individual		"Harper, Anna"	removed	removed	removed	removed	removed
+2899	Margaret Malone	removed	8	[Conversion]	removed		Individual		"Malone, Margaret"	removed	removed	removed	removed	removed
+3439	American Dornier Machinery	removed	8	[Conversion]	removed		Corporation		American Dornier Machinery	removed	removed	removed	removed	removed
+4739	James E. Bullock	removed	8	[Conversion]	removed		Individual		"Bullock, James E."	removed	removed	removed	removed	removed
+4815	The Gold Mine	removed	8	[Conversion]	removed		Corporation		The Gold Mine	removed	removed	removed	removed	removed
+5597	Ann Shaughnessy	removed	8	[Conversion]	removed		Individual		"Shaughnessy, Ann"	removed	removed	removed	removed	removed
+5618	Roger Szymczyk	removed	8	[Conversion]	removed		Individual		"Szymczyk, Roger"	removed	removed	removed	removed	removed
+5798	John C. Patton	removed	8	[Conversion]	removed		Individual		"Patton, John C."	removed	removed	removed	removed	removed
+5837	Charlotte Tolbert	removed	8	[Conversion]	removed		Individual		"Tolbert, Charlotte"	removed	removed	removed	removed	removed
+5927	Onean G. Key	removed	8	[Conversion]	removed		Individual		"Key, Onean G."	removed	removed	removed	removed	removed
+6763	First Presbyterian Church Sunday School Class	removed	8	[Conversion]	removed		House of Faith		First Presbyterian Church Sunday School Class	removed	removed	removed	removed	removed
+7063	George Shinn Foundation	removed	8	[Conversion]	removed		Foundation		George Shinn Foundation	removed	removed	removed	removed	removed
+7466	Leo P. D'Souza	removed	8	[Conversion]	removed		Individual		"D'Souza, Leo P."	removed	removed	removed	removed	removed
+8439	Terry Dotson	removed	8	[Conversion]	removed		Individual		"Dotson, Terry"	removed	removed	removed	removed	removed
+8746	Lori Tirrell	removed	8	[Conversion]	removed		Individual		"Tirrell, Lori"	removed	removed	removed	removed	removed
+9377	Providence Business Services	removed	8	[Conversion]	removed		Corporation		Providence Business Services	removed	removed	removed	removed	removed
+10227	Frances C. Craig	removed	8	[Conversion]	removed		Individual		"Craig, Frances C."	removed	removed	removed	removed	removed
+10350	Shelby D. Philemon	removed	8	[Conversion]	removed		Individual		"Philemon, Shelby D."	removed	removed	removed	removed	removed
+10497	Catherine J. Grayson	removed	8	[Conversion]	removed		Individual		"Grayson, Catherine J."	removed	removed	removed	removed	removed
+11916	P. Jill Newell	removed	8	[Conversion]	removed		Individual		"Newell, P. Jill"	removed	removed	removed	removed	removed
+12972	Sarah Beatty	removed	8	[Conversion]	removed		Individual		"Beatty, Sarah"	removed	removed	removed	removed	removed
+14030	Marilyn Woodall	removed	8	[Conversion]	removed		Individual		"Woodall, Marilyn"	removed	removed	removed	removed	removed
+14160	Crestdale Middle School	removed	8	[Conversion]	removed	School	Organization		Crestdale Middle School	removed	removed	removed	removed	removed
+14184	Elmer Yadon	removed	8	[Conversion]	removed		Individual		"Yadon, Elmer"	removed	removed	removed	removed	removed
+14347	J.H. Gunn Elementary School	removed	8	[Conversion]	removed	School	Organization		J.H. Gunn Elementary School	removed	removed	removed	removed	removed
+14384	Cathy Hull Mullis	removed	8	[Conversion]	removed		Individual		"Mullis, Cathy Hull"	removed	removed	removed	removed	removed
+14412	Highland Renaissance Academy	removed	8	[Conversion]	removed	School	Organization		Highland Renaissance Academy	removed	removed	removed	removed	removed
+14607	Gracia L. Mericle	removed	8	[Conversion]	removed		Individual		"Mericle, Gracia L."	removed	removed	removed	removed	removed
+14645	Matthews Elementary School	removed	8	[Conversion]	removed	School	Organization		Matthews Elementary School	removed	removed	removed	removed	removed
+14677	McClintock Middle School	removed	8	[Conversion]	removed	School	Organization		McClintock Middle School	removed	removed	removed	removed	removed
+14701	Robert Query Ranson	removed	8	[Conversion]	removed		Individual		"Ranson, Robert Query"	removed	removed	removed	removed	removed
+14771	Northeast Middle School	removed	8	[Conversion]	removed	School	Organization		Northeast Middle School	removed	removed	removed	removed	removed
+14938	Brenda Watts	removed	8	[Conversion]	removed		Individual		"Watts, Brenda"	removed	removed	removed	removed	removed
+15069	Kathryn S. Harris	removed	8	[Conversion]	removed		Individual		"Harris, Kathryn S."	removed	removed	removed	removed	removed
+15163	Villa Heights Elementary School	removed	8	[Conversion]	removed	School	Organization		Villa Heights Elementary School	removed	removed	removed	removed	removed
+15545	Ellis H. Levinson	removed	8	[Conversion]	removed		Individual		"Levinson, Ellis H."	removed	removed	removed	removed	removed
+15689	Greater Mt. Sinai Baptist Church	removed	8	[Conversion]	removed		House of Faith		Greater Mt. Sinai Baptist Church	removed	removed	removed	removed	removed
+15851	"Purcell Construction, Inc."	removed	8	[Conversion]	removed		Corporation		"Purcell Construction, Inc."	removed	removed	removed	removed	removed
+16162	Covenant Baptist Church	removed	8	[Conversion]	removed		House of Faith		Covenant Baptist Church	removed	removed	removed	removed	removed
+16299	Rachel I. Meyer	removed	8	[Conversion]	removed		Individual		"Meyer, Rachel I."	removed	removed	removed	removed	removed
+16425	Janet M. Haack	removed	8	[Conversion]	removed		Individual		"Haack, Janet M."	removed	removed	removed	removed	removed
+17011	Thierry Riek	removed	8	[Conversion]	removed		Individual		"Riek, Thierry"	removed	removed	removed	removed	removed
+17249	Michael Kallay	removed	8	[Conversion]	removed		Individual		"Kallay, Michael"	removed	removed	removed	removed	removed
+17330	"Bomar & Company, Inc."	removed	8	[Conversion]	removed		Corporation		"Bomar & Company, Inc."	removed	removed	removed	removed	removed
+17573	James Martin	removed	8	[Conversion]	removed		Individual		"Martin, James"	removed	removed	removed	removed	removed
+17649	Kelly L. Simmons	removed	8	[Conversion]	removed		Individual		"Simmons, Kelly L."	removed	removed	removed	removed	removed
+18233	Charlotte Meck. Retirees Assoc.	removed	8	[Conversion]	removed		Organization		Charlotte Meck. Retirees Assoc.	removed	removed	removed	removed	removed
+18808	Sheila Fetner	removed	8	[Conversion]	removed		Individual		"Fetner, Sheila"	removed	removed	removed	removed	removed
+18855	Donald D. Jeffries	removed	8	[Conversion]	removed		Individual		"Jeffries, Donald D."	removed	removed	removed	removed	removed
+20121	Frances H. Welch	removed	8	[Conversion]	removed		Individual		"Welch, Frances H."	removed	removed	removed	removed	removed
+20182	Charlene Hendricks	removed	8	[Conversion]	removed		Individual		"Hendricks, Charlene"	removed	removed	removed	removed	removed
+20504	Elaine Hunter	removed	8	[Conversion]	removed		Individual		"Hunter, Elaine"	removed	removed	removed	removed	removed
+20599	Cecil M. Swarthout	removed	8	[Conversion]	removed		Individual		"Swarthout, Cecil M."	removed	removed	removed	removed	removed
+61129	Feng F. Chen	removed	8	[Conversion]	removed		Individual		"Chen, Feng F."	removed	removed	removed	removed	removed
+62173	Richard K. McMackin	removed	8	[Conversion]	removed		Individual		"McMackin, Richard K."	removed	removed	removed	removed	removed
+62336	Sidney L. Neely	removed	8	[Conversion]	removed		Individual		"Neely, Sidney L."	removed	removed	removed	removed	removed
+62721	Kay G. Sellers	removed	8	[Conversion]	removed		Individual		"Sellers, Kay G."	removed	removed	removed	removed	removed
+64108	Elizabeth T. Saltzgiver	removed	8	[Conversion]	removed		Individual		"Saltzgiver, Elizabeth T."	removed	removed	removed	removed	removed
+64929	James R. Bostian Jr.	removed	8	[Conversion]	removed		Individual		"Bostian, James R. Jr."	removed	removed	removed	removed	removed
+65073	"ESP Associates, P.A."	removed	8	[Conversion]	removed		Business/Corporation		"ESP Associates, P.A."	removed	removed	removed	removed	removed
+65452	Dolores J. Shaffer	removed	8	[Conversion]	removed		Individual		"Shaffer, Dolores J."	removed	removed	removed	removed	removed
+66500	Angela A. Brown	removed	8	[Conversion]	removed		Individual		"Brown, Angela A."	removed	removed	removed	removed	removed
+67185	Ralph DeKemper	removed	8	[Conversion]	removed		Individual		"DeKemper, Ralph"	removed	removed	removed	removed	removed
+67259	Mildred Reid	removed	8	[Conversion]	removed		Individual		"Reid, Mildred"	removed	removed	removed	removed	removed
+68547	Pamela Saunders	removed	8	[Conversion]	removed		Individual		"Saunders, Pamela"	removed	removed	removed	removed	removed
+22	Margaret C. Ross	removed	9	[Conversion]	removed		Individual		"Ross, Margaret C."	removed	removed	removed	removed	removed
+189	Jack Berryhill	removed	9	[Conversion]	removed		Individual		"Berryhill, Jack"	removed	removed	removed	removed	removed
+294	"Village Store of Davidson, Inc."	removed	9	[Conversion]	removed		Corporation		"Village Store of Davidson, Inc."	removed	removed	removed	removed	removed
+962	Steve Dudkowski	removed	9	[Conversion]	removed		Individual		"Dudkowski, Steve"	removed	removed	removed	removed	removed
+1390	Gail Vesloski	removed	9	[Conversion]	removed		Individual		"Vesloski, Gail"	removed	removed	removed	removed	removed
+1571	Calvin E. Williams	removed	9	[Conversion]	removed		Individual		"Williams, Calvin E."	removed	removed	removed	removed	removed
+2047	Bunker Hill	removed	9	[Conversion]	removed		Organization		Bunker Hill	removed	removed	removed	removed	removed
+2154	Mary Porter	removed	9	[Conversion]	removed		Individual		"Porter, Mary"	removed	removed	removed	removed	removed
+2366	Judy Clark	removed	9	[Conversion]	removed		Individual		"Clark, Judy"	removed	removed	removed	removed	removed
+2597	Cornelia Counts	removed	9	[Conversion]	removed		Individual		"Counts, Cornelia"	removed	removed	removed	removed	removed
+2674	Phyllis Farr	removed	9	[Conversion]	removed		Individual		"Farr, Phyllis"	removed	removed	removed	removed	removed
+2804	Leah Jordan	removed	9	[Conversion]	removed		Individual		"Jordan, Leah"	removed	removed	removed	removed	removed
+3059	Elizabeth Ford	removed	9	[Conversion]	removed		Individual		"Ford, Elizabeth"	removed	removed	removed	removed	removed
+3070	Ruth Little	removed	9	[Conversion]	removed		Individual		"Little, Ruth"	removed	removed	removed	removed	removed
+3907	Roy Coker	removed	9	[Conversion]	removed		Individual		"Coker, Roy"	removed	removed	removed	removed	removed
+4236	Patrick Short	removed	9	[Conversion]	removed		Individual		"Short, Patrick"	removed	removed	removed	removed	removed
+4656	Laury J. Griesmer	removed	9	[Conversion]	removed		Individual		"Griesmer, Laury J."	removed	removed	removed	removed	removed
+6161	Wialillian Howard	removed	9	[Conversion]	removed		Individual		"Howard, Wialillian"	removed	removed	removed	removed	removed
+7333	Thomas Lawson	removed	9	[Conversion]	removed		Individual		"Lawson, Thomas"	removed	removed	removed	removed	removed
+7336	Nelson Woody	removed	9	[Conversion]	removed		Individual		"Woody, Nelson"	removed	removed	removed	removed	removed
+7434	Charity Games	removed	9	[Conversion]	removed		Organization		Charity Games	removed	removed	removed	removed	removed
+9052	Ann Archer	removed	9	[Conversion]	removed		Individual		"Archer, Ann"	removed	removed	removed	removed	removed
+9344	National Campers Hikers Association	removed	9	[Conversion]	removed		Organization		National Campers Hikers Association	removed	removed	removed	removed	removed
+11730	The Reflections Class	removed	9	[Conversion]	removed		House of Faith		The Reflections Class	removed	removed	removed	removed	removed
+12951	Community House Middle School	removed	9	[Conversion]	removed	School	Organization		Community House Middle School	removed	removed	removed	removed	removed
+14036	Barringer Academic Center	removed	9	[Conversion]	removed	School	Organization		Barringer Academic Center	removed	removed	removed	removed	removed
+14056	Blythe Elementary School	removed	9	[Conversion]	removed	School	Organization		Blythe Elementary School	removed	removed	removed	removed	removed
+14175	Barbara D. Scott	removed	9	[Conversion]	removed		Individual		"Scott, Barbara D."	removed	removed	removed	removed	removed
+14596	Esther McAteer	removed	9	[Conversion]	removed		Individual		"McAteer, Esther"	removed	removed	removed	removed	removed
+14680	Olivia C. McManaway	removed	9	[Conversion]	removed		Individual		"McManaway, Olivia C."	removed	removed	removed	removed	removed
+14934	Ranson Middle School	removed	9	[Conversion]	removed	School	Organization		Ranson Middle School	removed	removed	removed	removed	removed
+14992	"M633, INC"	removed	9	[Conversion]	removed		Corporation		"M633, INC"	removed	removed	removed	removed	removed
+15613	Jill T. Briceno	removed	9	[Conversion]	removed		Individual		"Briceno, Jill T."	removed	removed	removed	removed	removed
+15771	Bethlehem Presbyterian Church	removed	9	[Conversion]	removed		House of Faith		Bethlehem Presbyterian Church	removed	removed	removed	removed	removed
+15785	Jean B. Whipple	removed	9	[Conversion]	removed		Individual		"Whipple, Jean B."	removed	removed	removed	removed	removed
+15900	Betty Hutchinson	removed	9	[Conversion]	removed		Individual		"Hutchinson, Betty"	removed	removed	removed	removed	removed
+15938	Ann Fitch	removed	9	[Conversion]	removed		Individual		"Fitch, Ann"	removed	removed	removed	removed	removed
+16137	Jack H. Sisson Jr.	removed	9	[Conversion]	removed		Individual		"Sisson, Jack H. Jr."	removed	removed	removed	removed	removed
+16601	Glenda C. Stephens	removed	9	[Conversion]	removed		Individual		"Stephens, Glenda C."	removed	removed	removed	removed	removed
+17073	Jacqueline J. Copeland	removed	9	[Conversion]	removed		Individual		"Copeland, Jacqueline J."	removed	removed	removed	removed	removed
+17892	Janet B. Bean	removed	9	[Conversion]	removed		Individual		"Bean, Janet B."	removed	removed	removed	removed	removed
+18179	Elaine Anderson	removed	9	[Conversion]	removed		Individual		"Anderson, Elaine"	removed	removed	removed	removed	removed
+18269	Kathleen S. Sinay	removed	9	[Conversion]	removed		Individual		"Sinay, Kathleen S."	removed	removed	removed	removed	removed
+18489	Clare L. White	removed	9	[Conversion]	removed		Individual		"White, Clare L."	removed	removed	removed	removed	removed
+18511	Nancy Jean Darnell	removed	9	[Conversion]	removed		Individual		"Darnell, Nancy Jean"	removed	removed	removed	removed	removed
+18533	Elizabeth A. Vincent	removed	9	[Conversion]	removed		Individual		"Vincent, Elizabeth A."	removed	removed	removed	removed	removed
+18596	Olive V. Dower	removed	9	[Conversion]	removed		Individual		"Dower, Olive V."	removed	removed	removed	removed	removed
+18961	Angela R. York	removed	9	[Conversion]	removed		Individual		"York, Angela R."	removed	removed	removed	removed	removed
+19390	Barbara Shields	removed	9	[Conversion]	removed		Individual		"Shields, Barbara"	removed	removed	removed	removed	removed
+19427	Mecklenburg Chapter of DAR	removed	9	[Conversion]	removed		Organization		Mecklenburg Chapter of DAR	removed	removed	removed	removed	removed
+19481	Stan Steinberger	removed	9	[Conversion]	removed		Individual		"Steinberger, Stan"	removed	removed	removed	removed	removed
+19742	Hopewell Presbyterian Church	removed	9	[Conversion]	removed		House of Faith		Hopewell Presbyterian Church	removed	removed	removed	removed	removed
+19834	The Thistle	removed	9	[Conversion]	removed		Corporation		The Thistle	removed	removed	removed	removed	removed
+20116	Sue A. Settles	removed	9	[Conversion]	removed		Individual		"Settles, Sue A."	removed	removed	removed	removed	removed
+20351	Evelyn Cross	removed	9	[Conversion]	removed		Individual		"Cross, Evelyn"	removed	removed	removed	removed	removed
+20468	Mildred B. Montgomery	removed	9	[Conversion]	removed		Individual		"Montgomery, Mildred B."	removed	removed	removed	removed	removed
+20836	Frances C. Jones	removed	9	[Conversion]	removed		Individual		"Jones, Frances C."	removed	removed	removed	removed	removed
+61114	Louise P. Chambers	removed	9	[Conversion]	removed		Individual		"Chambers, Louise P."	removed	removed	removed	removed	removed
+61516	Lee Gault	removed	9	[Conversion]	removed		Individual		"Gault, Lee"	removed	removed	removed	removed	removed
+62025	Pamela Lowrance	removed	9	[Conversion]	removed		Individual		"Lowrance, Pamela"	removed	removed	removed	removed	removed
+62087	Laurens Mathews	removed	9	[Conversion]	removed		Individual		"Mathews, Laurens"	removed	removed	removed	removed	removed
+62404	Sara B. Parkinson	removed	9	[Conversion]	removed		Individual		"Parkinson, Sara B."	removed	removed	removed	removed	removed
+65654	Seed Sower	removed	9	[Conversion]	removed		Business/Corporation		Seed Sower	removed	removed	removed	removed	removed
+199	Elizabeth Wilson	removed	10	[Conversion]	removed		Individual		"Wilson, Elizabeth"	removed	removed	removed	removed	removed
+502	Latcom	removed	10	[Conversion]	removed		Corporation		Latcom	removed	removed	removed	removed	removed
+1729	Gilbert Ketcham	removed	10	[Conversion]	removed		Individual		"Ketcham, Gilbert"	removed	removed	removed	removed	removed
+2618	Peggy Price	removed	10	[Conversion]	removed		Individual		"Price, Peggy"	removed	removed	removed	removed	removed
+3010	Daniel S. Zilber	removed	10	[Conversion]	removed		Individual		"Zilber, Daniel S."	removed	removed	removed	removed	removed
+3338	Mr. John Mayo	removed	10	[Conversion]	removed		Corporation		Mr. John Mayo	removed	removed	removed	removed	removed
+3709	Shilpa Pandya	removed	10	[Conversion]	removed		Individual		"Pandya, Shilpa"	removed	removed	removed	removed	removed
+4326	Linda A. Von Hedrich	removed	10	[Conversion]	removed		Individual		"Von Hedrich, Linda A."	removed	removed	removed	removed	removed
+4792	Thomasena Gaither	removed	10	[Conversion]	removed		Individual		"Gaither, Thomasena"	removed	removed	removed	removed	removed
+5173	Joan Allen	removed	10	[Conversion]	removed		Individual		"Allen, Joan"	removed	removed	removed	removed	removed
+5690	Eastern Airlines Retirees Association	removed	10	[Conversion]	removed		Organization		Eastern Airlines Retirees Association	removed	removed	removed	removed	removed
+7682	Elizabeth A. Harkey	removed	10	[Conversion]	removed		Individual		"Harkey, Elizabeth A."	removed	removed	removed	removed	removed
+9112	Larry Burnham	removed	10	[Conversion]	removed		Individual		"Burnham, Larry"	removed	removed	removed	removed	removed
+9123	Atlantic Electric Systems	removed	10	[Conversion]	removed		Corporation		Atlantic Electric Systems	removed	removed	removed	removed	removed
+9397	Margaret Lewith	removed	10	[Conversion]	removed		Individual		"Lewith, Margaret"	removed	removed	removed	removed	removed
+9486	Jim Gerlock	removed	10	[Conversion]	removed		Individual		"Gerlock, Jim"	removed	removed	removed	removed	removed
+9650	"Cook & Boardman, Inc."	removed	10	[Conversion]	removed		Corporation		"Cook & Boardman, Inc."	removed	removed	removed	removed	removed
+10016	Millicent Rollins	removed	10	[Conversion]	removed		Individual		"Rollins, Millicent"	removed	removed	removed	removed	removed
+12910	Eliza Bagby	removed	10	[Conversion]	removed		Individual		"Bagby, Eliza"	removed	removed	removed	removed	removed
+14170	Crown Point Elementary School	removed	10	[Conversion]	removed	School	Organization		Crown Point Elementary School	removed	removed	removed	removed	removed
+14686	McKee Road Elementary School	removed	10	[Conversion]	removed	School	Organization		McKee Road Elementary School	removed	removed	removed	removed	removed
+14890	James Thompson	removed	10	[Conversion]	removed		Individual		"Thompson, James"	removed	removed	removed	removed	removed
+15037	L.P. Mayhew	removed	10	[Conversion]	removed		Individual		"Mayhew, L.P."	removed	removed	removed	removed	removed
+15256	Charlotte Country Day Middle School	removed	10	[Conversion]	removed	School	Organization		Charlotte Country Day Middle School	removed	removed	removed	removed	removed
+15476	Margaret Morton	removed	10	[Conversion]	removed		Individual		"Morton, Margaret"	removed	removed	removed	removed	removed
+15791	Elizabeth Larkin	removed	10	[Conversion]	removed		Individual		"Larkin, Elizabeth"	removed	removed	removed	removed	removed
+15996	Mr. and Mrs. Robert Ruppenthal	removed	10	[Conversion]	removed		Corporation		Mr. and Mrs. Robert Ruppenthal	removed	removed	removed	removed	removed
+16154	Julian T. Sutton	removed	10	[Conversion]	removed		Individual		"Sutton, Julian T."	removed	removed	removed	removed	removed
+16236	Catherine O. Jones	removed	10	[Conversion]	removed		Individual		"Jones, Catherine O."	removed	removed	removed	removed	removed
+16282	Beth Ann Turner	removed	10	[Conversion]	removed		Individual		"Turner, Beth Ann"	removed	removed	removed	removed	removed
+16693	Myrtle B. Goldstein	removed	10	[Conversion]	removed		Individual		"Goldstein, Myrtle B."	removed	removed	removed	removed	removed
+16717	Anita Nodtvedt	removed	10	[Conversion]	removed		Individual		"Nodtvedt, Anita"	removed	removed	removed	removed	removed
+17211	Delia Pettus Blankenship	removed	10	[Conversion]	removed		Individual		"Blankenship, Delia Pettus"	removed	removed	removed	removed	removed
+17222	Charlie Fletcher	removed	10	[Conversion]	removed		Individual		"Fletcher, Charlie"	removed	removed	removed	removed	removed
+17403	Howard Therrell	removed	10	[Conversion]	removed		Individual		"Therrell, Howard"	removed	removed	removed	removed	removed
+17645	"Hemphill-Nolan Group, Inc."	removed	10	[Conversion]	removed		Corporation		"Hemphill-Nolan Group, Inc."	removed	removed	removed	removed	removed
+17873	Benjamin M. Pearce	removed	10	[Conversion]	removed		Individual		"Pearce, Benjamin M."	removed	removed	removed	removed	removed
+17920	William T. Elmore Jr.	removed	10	[Conversion]	removed		Individual		"Elmore, William T. Jr."	removed	removed	removed	removed	removed
+17941	Philip J. Gentlesk Sr.	removed	10	[Conversion]	removed		Individual		"Gentlesk, Philip J. Sr."	removed	removed	removed	removed	removed
+17969	Helen Catherine Primm	removed	10	[Conversion]	removed		Individual		"Primm, Helen Catherine"	removed	removed	removed	removed	removed
+18432	A. Mitchell Jackson	removed	10	[Conversion]	removed		Individual		"Jackson, A. Mitchell"	removed	removed	removed	removed	removed
+18954	Edward F. Balfe	removed	10	[Conversion]	removed		Individual		"Balfe, Edward F."	removed	removed	removed	removed	removed
+18960	Trinity United Methodist Church	removed	10	[Conversion]	removed		House of Faith		Trinity United Methodist Church	removed	removed	removed	removed	removed
+19443	"Landtronics, Inc."	removed	10	[Conversion]	removed		Business/Corporation|Corporation		"Landtronics, Inc."	removed	removed	removed	removed	removed
+19718	Wanda L. Beck	removed	10	[Conversion]	removed		Individual		"Beck, Wanda L."	removed	removed	removed	removed	removed
+20744	William W. Brown Jr.	removed	10	[Conversion]	removed		Individual		"Brown, William W. Jr."	removed	removed	removed	removed	removed
+62364	Harriette G. O'Hair	removed	10	[Conversion]	removed		Individual		"O'Hair, Harriette G."	removed	removed	removed	removed	removed
+62882	Irene H. Sykes	removed	10	[Conversion]	removed		Individual		"Sykes, Irene H."	removed	removed	removed	removed	removed
+64166	Alan T. Dickson	removed	10	[Conversion]	removed		Individual		"Dickson, Alan T."	removed	removed	removed	removed	removed
+64873	Lee J. Van Rossum	removed	10	[Conversion]	removed		Individual		"Van Rossum, Lee J."	removed	removed	removed	removed	removed
+65117	H. Taylor Clements	removed	10	[Conversion]	removed		Individual		"Clements, H. Taylor"	removed	removed	removed	removed	removed
+65661	BI/LO	removed	10	[Conversion]	removed		Business/Corporation		BI/LO	removed	removed	removed	removed	removed
+317	Walter Jackson	removed	11	[Conversion]	removed		Individual		"Jackson, Walter"	removed	removed	removed	removed	removed
+1577	Brandon R. Carroll	removed	11	[Conversion]	removed		Individual		"Carroll, Brandon R."	removed	removed	removed	removed	removed
+2178	William H. Cooper	removed	11	[Conversion]	removed		Individual		"Cooper, William H."	removed	removed	removed	removed	removed
+2306	Betty Haddock	removed	11	[Conversion]	removed		Individual		"Haddock, Betty"	removed	removed	removed	removed	removed
+2406	Voortman Cookies	removed	11	[Conversion]	removed		Corporation		Voortman Cookies	removed	removed	removed	removed	removed
+2863	Johnsie Woody	removed	11	[Conversion]	removed		Individual		"Woody, Johnsie"	removed	removed	removed	removed	removed
+4289	Nancy C. Haas	removed	11	[Conversion]	removed		Individual		"Haas, Nancy C."	removed	removed	removed	removed	removed
+4329	Hildegarde Kimmons	removed	11	[Conversion]	removed		Individual		"Kimmons, Hildegarde"	removed	removed	removed	removed	removed
+6689	June Liersaph	removed	11	[Conversion]	removed		Individual		"Liersaph, June"	removed	removed	removed	removed	removed
+8499	Sunflower Bakery	removed	11	[Conversion]	removed		Corporation		Sunflower Bakery	removed	removed	removed	removed	removed
+14466	LaRue B. Allen	removed	11	[Conversion]	removed		Individual		"Allen, LaRue B."	removed	removed	removed	removed	removed
+14678	Ashley Hogewood	removed	11	[Conversion]	removed		Individual		"Hogewood, Ashley"	removed	removed	removed	removed	removed
+14700	Betty Kester	removed	11	[Conversion]	removed		Individual		"Kester, Betty"	removed	removed	removed	removed	removed
+14878	"Fleet Operations, Inc."	removed	11	[Conversion]	removed		Corporation		"Fleet Operations, Inc."	removed	removed	removed	removed	removed
+15074	Starmount Pre-K Center	removed	11	[Conversion]	removed	School	Organization		Starmount Pre-K Center	removed	removed	removed	removed	removed
+15428	Richard F. Collins	removed	11	[Conversion]	removed		Individual		"Collins, Richard F."	removed	removed	removed	removed	removed
+15880	Decision One Mortgage	removed	11	[Conversion]	removed		Corporation		Decision One Mortgage	removed	removed	removed	removed	removed
+16246	Dorothy K. Kohout	removed	11	[Conversion]	removed		Individual		"Kohout, Dorothy K."	removed	removed	removed	removed	removed
+16388	Regina G. Gallagher	removed	11	[Conversion]	removed		Individual		"Gallagher, Regina G."	removed	removed	removed	removed	removed
+16831	Walton Hamilton	removed	11	[Conversion]	removed		Individual		"Hamilton, Walton"	removed	removed	removed	removed	removed
+17042	Juanita F. Stallings	removed	11	[Conversion]	removed		Individual		"Stallings, Juanita F."	removed	removed	removed	removed	removed
+17420	Pat Archer	removed	11	[Conversion]	removed		Individual		"Archer, Pat"	removed	removed	removed	removed	removed
+17538	Carolyn Lindler	removed	11	[Conversion]	removed		Individual		"Lindler, Carolyn"	removed	removed	removed	removed	removed
+20499	Iris Penny	removed	11	[Conversion]	removed		Individual		"Penny, Iris"	removed	removed	removed	removed	removed
+20532	Jennifer Wolfe	removed	11	[Conversion]	removed		Individual		"Wolfe, Jennifer"	removed	removed	removed	removed	removed
+20568	Yetive W. Smith	removed	11	[Conversion]	removed		Individual		"Smith, Yetive W."	removed	removed	removed	removed	removed
+20772	Kenneth C. Day	removed	11	[Conversion]	removed		Individual		"Day, Kenneth C."	removed	removed	removed	removed	removed
+61219	Halina Craig	removed	11	[Conversion]	removed		Individual		"Craig, Halina"	removed	removed	removed	removed	removed
+61732	Neal H. Hodges Jr.	removed	11	[Conversion]	removed		Individual		"Hodges, Neal H. Jr."	removed	removed	removed	removed	removed
+62393	T. Haughton Pardee	removed	11	[Conversion]	removed		Individual		"Pardee, T. Haughton"	removed	removed	removed	removed	removed
+63406	Sprint Foundation	removed	11	[Conversion]	removed		Foundation		Sprint Foundation	removed	removed	removed	removed	removed
+63943	Charles A. Willis	removed	11	[Conversion]	removed		Individual		"Willis, Charles A."	removed	removed	removed	removed	removed
+64167	Ned M. Fowler	removed	11	[Conversion]	removed		Individual		"Fowler, Ned M."	removed	removed	removed	removed	removed
+64318	Stephen H. Newman	removed	11	[Conversion]	removed		Individual		"Newman, Stephen H."	removed	removed	removed	removed	removed
+68015	Catherine M. Randall	removed	11	[Conversion]	removed		Individual		"Randall, Catherine M."	removed	removed	removed	removed	removed
+62	Marie D. Latimer	removed	12	[Conversion]	removed		Individual		"Latimer, Marie D."	removed	removed	removed	removed	removed
+506	Rosalie Andrews	removed	12	[Conversion]	removed		Individual		"Andrews, Rosalie"	removed	removed	removed	removed	removed
+685	Mary W. Kirkland	removed	12	[Conversion]	removed		Individual		"Kirkland, Mary W."	removed	removed	removed	removed	removed
+1612	Vincent D. Librizzi	removed	12	[Conversion]	removed		Individual		"Librizzi, Vincent D."	removed	removed	removed	removed	removed
+1877	Sybble Smithwick	removed	12	[Conversion]	removed		Individual		"Smithwick, Sybble"	removed	removed	removed	removed	removed
+2055	Perigon	removed	12	[Conversion]	removed		Corporation		Perigon	removed	removed	removed	removed	removed
+2510	Helen C. Cooper	removed	12	[Conversion]	removed		Individual		"Cooper, Helen C."	removed	removed	removed	removed	removed
+2688	Patrick N. Byrd	removed	12	[Conversion]	removed		Individual		"Byrd, Patrick N."	removed	removed	removed	removed	removed
+2802	Matthew Boyd	removed	12	[Conversion]	removed		Individual		"Boyd, Matthew"	removed	removed	removed	removed	removed
+2805	Mark Quade	removed	12	[Conversion]	removed		Individual		"Quade, Mark"	removed	removed	removed	removed	removed
+6181	Linda Whitener	removed	12	[Conversion]	removed		Individual		"Whitener, Linda"	removed	removed	removed	removed	removed
+9029	Tammy Maynard	removed	12	[Conversion]	removed		Individual		"Maynard, Tammy"	removed	removed	removed	removed	removed
+9031	Robert Rayburn	removed	12	[Conversion]	removed		Individual		"Rayburn, Robert"	removed	removed	removed	removed	removed
+9539	Martha Hazel	removed	12	[Conversion]	removed		Individual		"Hazel, Martha"	removed	removed	removed	removed	removed
+10538	Beth Armour	removed	12	[Conversion]	removed		Individual		"Armour, Beth"	removed	removed	removed	removed	removed
+14334	Phyllis Smith	removed	12	[Conversion]	removed		Individual		"Smith, Phyllis"	removed	removed	removed	removed	removed
+14556	United Way Tri-State	removed	12	[Conversion]	removed		Organization		United Way Tri-State	removed	removed	removed	removed	removed
+15521	Karina Romanelli	removed	12	[Conversion]	removed		Individual		"Romanelli, Karina"	removed	removed	removed	removed	removed
+17103	Sarah Stafford	removed	12	[Conversion]	removed		Individual		"Stafford, Sarah"	removed	removed	removed	removed	removed
+17412	Anna Vee Rice	removed	12	[Conversion]	removed		Individual		"Rice, Anna Vee"	removed	removed	removed	removed	removed
+17957	Steve C. Pappamihiel	removed	12	[Conversion]	removed		Individual		"Pappamihiel, Steve C."	removed	removed	removed	removed	removed
+18849	St. John's United Methodist Church	removed	12	[Conversion]	removed		House of Faith		St. John's United Methodist Church	removed	removed	removed	removed	removed
+19884	Pleasant Grove Presbyterian Church	removed	12	[Conversion]	removed		House of Faith		Pleasant Grove Presbyterian Church	removed	removed	removed	removed	removed
+20890	Eileen C. Corpening	removed	12	[Conversion]	removed		Individual		"Corpening, Eileen C."	removed	removed	removed	removed	removed
+61408	Jane W. Emler	removed	12	[Conversion]	removed		Individual		"Emler, Jane W."	removed	removed	removed	removed	removed
+64149	Karen A. Boffi	removed	12	[Conversion]	removed		Individual		"Boffi, Karen A."	removed	removed	removed	removed	removed
+64360	Mary N. Austin	removed	12	[Conversion]	removed		Individual		"Austin, Mary N."	removed	removed	removed	removed	removed
+64624	J. Douglas Patton	removed	12	[Conversion]	removed		Individual		"Patton, J. Douglas"	removed	removed	removed	removed	removed
+68183	Inez Mosier	removed	12	[Conversion]	removed		Individual		"Mosier, Inez"	removed	removed	removed	removed	removed
+68498	Rose Farino	removed	12	[Conversion]	removed		Individual		"Farino, Rose"	removed	removed	removed	removed	removed
+180	General Dynamics	removed	13	[Conversion]	removed		Corporation		General Dynamics	removed	removed	removed	removed	removed
+359	Cheri Wiles	removed	13	[Conversion]	removed		Individual		"Wiles, Cheri"	removed	removed	removed	removed	removed
+1206	Isabelle E. Hine	removed	13	[Conversion]	removed		Individual		"Hine, Isabelle E."	removed	removed	removed	removed	removed
+2768	Lillian S. Harley	removed	13	[Conversion]	removed		Individual		"Harley, Lillian S."	removed	removed	removed	removed	removed
+4854	United Way of America	removed	13	[Conversion]	removed		Organization		United Way of America	removed	removed	removed	removed	removed
+5416	Kenneth Alexander	removed	13	[Conversion]	removed		Individual		"Alexander, Kenneth"	removed	removed	removed	removed	removed
+5425	Joyce Arrowood	removed	13	[Conversion]	removed		Individual		"Arrowood, Joyce"	removed	removed	removed	removed	removed
+5847	Doris L. Reynolds	removed	13	[Conversion]	removed		Individual		"Reynolds, Doris L."	removed	removed	removed	removed	removed
+8811	Kathleen Tomsyck	removed	13	[Conversion]	removed		Individual		"Tomsyck, Kathleen"	removed	removed	removed	removed	removed
+8939	Elizabeth A. Hardin	removed	13	[Conversion]	removed		Individual		"Hardin, Elizabeth A."	removed	removed	removed	removed	removed
+9600	Gale H. Cooper	removed	13	[Conversion]	removed		Individual		"Cooper, Gale H."	removed	removed	removed	removed	removed
+10937	Feinstein Family Foundation	removed	13	[Conversion]	removed		Foundation		Feinstein Family Foundation	removed	removed	removed	removed	removed
+10995	Carmen S. Trelles	removed	13	[Conversion]	removed		Individual		"Trelles, Carmen S."	removed	removed	removed	removed	removed
+14196	Joe D. Gibbs	removed	13	[Conversion]	removed		Individual		"Gibbs, Joe D."	removed	removed	removed	removed	removed
+14436	Gladys W. Scott	removed	13	[Conversion]	removed		Individual		"Scott, Gladys W."	removed	removed	removed	removed	removed
+14479	Julie C. Clarkson	removed	13	[Conversion]	removed		Individual		"Clarkson, Julie C."	removed	removed	removed	removed	removed
+15442	Frances T. Nichols	removed	13	[Conversion]	removed		Individual		"Nichols, Frances T."	removed	removed	removed	removed	removed
+15808	Albert B. McClanahan	removed	13	[Conversion]	removed		Individual		"McClanahan, Albert B."	removed	removed	removed	removed	removed
+16646	Helen Griffin	removed	13	[Conversion]	removed		Individual		"Griffin, Helen"	removed	removed	removed	removed	removed
+18509	Stuart Gaul Jr.	removed	13	[Conversion]	removed		Individual		"Gaul, Stuart Jr."	removed	removed	removed	removed	removed
+18983	Coy Gibbs	removed	13	[Conversion]	removed		Individual		"Gibbs, Coy"	removed	removed	removed	removed	removed
+19476	"Prince-Parker & Associates, Inc."	removed	13	[Conversion]	removed		Corporation		"Prince-Parker & Associates, Inc."	removed	removed	removed	removed	removed
+20329	Margaret Hathaway	removed	13	[Conversion]	removed		Individual		"Hathaway, Margaret"	removed	removed	removed	removed	removed
+20489	Margaret F. Palmer	removed	13	[Conversion]	removed		Individual		"Palmer, Margaret F."	removed	removed	removed	removed	removed
+20850	Eleanor D. Hicks	removed	13	[Conversion]	removed		Individual		"Hicks, Eleanor D."	removed	removed	removed	removed	removed
+20976	Eugenia R. Rose	removed	13	[Conversion]	removed		Individual		"Rose, Eugenia R."	removed	removed	removed	removed	removed
+60790	J. Phoebe Amante	removed	13	[Conversion]	removed		Individual		"Amante, J. Phoebe"	removed	removed	removed	removed	removed
+61929	Donna Kluth	removed	13	[Conversion]	removed		Individual		"Kluth, Donna"	removed	removed	removed	removed	removed
+66151	Lillian M. Ross	removed	13	[Conversion]	removed		Recipient		"Ross, Lillian M."	removed	removed	removed	removed	removed
+953	Joy Kimbrel	removed	14	[Conversion]	removed		Individual		"Kimbrel, Joy"	removed	removed	removed	removed	removed
+2233	Barbara M. Dooley	removed	14	[Conversion]	removed		Individual		"Dooley, Barbara M."	removed	removed	removed	removed	removed
+7582	Nora Norman	removed	14	[Conversion]	removed		Individual		"Norman, Nora"	removed	removed	removed	removed	removed
+8458	Gwendolyn Shaw	removed	14	[Conversion]	removed		Individual		"Shaw, Gwendolyn"	removed	removed	removed	removed	removed
+9342	Linda Blanco	removed	14	[Conversion]	removed		Individual		"Blanco, Linda"	removed	removed	removed	removed	removed
+9441	Jimmie Doll	removed	14	[Conversion]	removed		Individual		"Doll, Jimmie"	removed	removed	removed	removed	removed
+14317	Kimberly A. Voisine	removed	14	[Conversion]	removed		Individual		"Voisine, Kimberly A."	removed	removed	removed	removed	removed
+15324	W. Burgess Peach	removed	14	[Conversion]	removed		Individual		"Peach, W. Burgess"	removed	removed	removed	removed	removed
+15794	J.E. Jenkins	removed	14	[Conversion]	removed		Individual		"Jenkins, J.E."	removed	removed	removed	removed	removed
+17924	Hazel F. Whitlock	removed	14	[Conversion]	removed		Individual		"Whitlock, Hazel F."	removed	removed	removed	removed	removed
+19528	Ben Salem Presbyterian Church	removed	14	[Conversion]	removed		House of Faith		Ben Salem Presbyterian Church	removed	removed	removed	removed	removed
+20725	Lydia H. Botsford	removed	14	[Conversion]	removed		Individual		"Botsford, Lydia H."	removed	removed	removed	removed	removed
+64355	Geoffrey J. Schott	removed	14	[Conversion]	removed		Individual		"Schott, Geoffrey J."	removed	removed	removed	removed	removed
+65206	AJ Toogood	removed	14	[Conversion]	removed		Individual		"Toogood, AJ"	removed	removed	removed	removed	removed
+66142	Johannes Kittner	removed	14	[Conversion]	removed		Individual		"Kittner, Johannes"	removed	removed	removed	removed	removed
+68903	Crawford Ferguson III	removed	14	[Conversion]	removed		Individual		"Ferguson, Crawford III"	removed	removed	removed	removed	removed
+124	Gloria Holmes Long	removed	15	[Conversion]	removed		Individual		"Long, Gloria Holmes"	removed	removed	removed	removed	removed
+224	James Louy Jr.	removed	15	[Conversion]	removed		Individual		"Louy, James Jr."	removed	removed	removed	removed	removed
+2066	W.T. Gill	removed	15	[Conversion]	removed		Individual		"Gill, W.T."	removed	removed	removed	removed	removed
+4835	Deborah Garland	removed	15	[Conversion]	removed		Individual		"Garland, Deborah"	removed	removed	removed	removed	removed
+9154	Melanie Bynum	removed	15	[Conversion]	removed		Individual		"Bynum, Melanie"	removed	removed	removed	removed	removed
+14491	Anna Land	removed	15	[Conversion]	removed		Individual		"Land, Anna"	removed	removed	removed	removed	removed
+14500	William M. Willis IV	removed	15	[Conversion]	removed		Individual		"Willis, William M. IV"	removed	removed	removed	removed	removed
+15451	Harry T. Stewart	removed	15	[Conversion]	removed		Individual		"Stewart, Harry T."	removed	removed	removed	removed	removed
+16347	Adelaide L. Gantt	removed	15	[Conversion]	removed		Gala|Individual		"Gantt, Adelaide L."	removed	removed	removed	removed	removed
+16843	Beverly Hemby Leahy	removed	15	[Conversion]	removed		Individual		"Leahy, Beverly Hemby"	removed	removed	removed	removed	removed
+16924	Janet S. Bower	removed	15	[Conversion]	removed		Individual		"Bower, Janet S."	removed	removed	removed	removed	removed
+17987	Frank J. Gilroy	removed	15	[Conversion]	removed		Individual		"Gilroy, Frank J."	removed	removed	removed	removed	removed
+19328	Thomas F. Pecott	removed	15	[Conversion]	removed		Individual		"Pecott, Thomas F."	removed	removed	removed	removed	removed
+68180	James H. Yon Jr.	removed	15	[Conversion]	removed		Individual		"Yon, James H. Jr."	removed	removed	removed	removed	removed
+696	Elmer C. Kross	removed	16	[Conversion]	removed		Individual		"Kross, Elmer C."	removed	removed	removed	removed	removed
+837	Jeames Lynwood King	removed	16	[Conversion]	removed		Individual		"King, Jeames Lynwood"	removed	removed	removed	removed	removed
+1985	Peggy Prevatte	removed	16	[Conversion]	removed		Individual		"Prevatte, Peggy"	removed	removed	removed	removed	removed
+7389	Dorothy Peeler	removed	16	[Conversion]	removed		Individual		"Peeler, Dorothy"	removed	removed	removed	removed	removed
+7727	Dianne Taylor	removed	16	[Conversion]	removed		Individual		"Taylor, Dianne"	removed	removed	removed	removed	removed
+14407	Faye W. Crouch	removed	16	[Conversion]	removed		Individual		"Crouch, Faye W."	removed	removed	removed	removed	removed
+14559	Edward L. Horton	removed	16	[Conversion]	removed		Individual		"Horton, Edward L."	removed	removed	removed	removed	removed
+14592	Louis H. Sawyer	removed	16	[Conversion]	removed		Individual		"Sawyer, Louis H."	removed	removed	removed	removed	removed
+16293	Jane E. Parker	removed	16	[Conversion]	removed		Individual		"Parker, Jane E."	removed	removed	removed	removed	removed
+17136	Communion of Faith Christian Church	removed	16	[Conversion]	removed		House of Faith		Communion of Faith Christian Church	removed	removed	removed	removed	removed
+18496	Cole Memorial United Methodist	removed	16	[Conversion]	removed		House of Faith		Cole Memorial United Methodist	removed	removed	removed	removed	removed
+18838	St. Francis United Methodist Church	removed	16	[Conversion]	removed		House of Faith		St. Francis United Methodist Church	removed	removed	removed	removed	removed
+20195	Frances Barts	removed	16	[Conversion]	removed		Individual		"Barts, Frances"	removed	removed	removed	removed	removed
+62861	Myrtle P. Stover	removed	16	[Conversion]	removed		Individual		"Stover, Myrtle P."	removed	removed	removed	removed	removed
+64158	Ben H. Winfree	removed	16	[Conversion]	removed		Individual		"Winfree, Ben H."	removed	removed	removed	removed	removed
+64874	Stephan A. Shelton	removed	16	[Conversion]	removed		Individual		"Shelton, Stephan A."	removed	removed	removed	removed	removed
+67995	Helen Blackwelder	removed	16	[Conversion]	removed		Individual		"Blackwelder, Helen"	removed	removed	removed	removed	removed
+14683	William F. Smith	removed	17	[Conversion]	removed		Individual		"Smith, William F."	removed	removed	removed	removed	removed
+15479	Mary A. Calder	removed	17	[Conversion]	removed		Individual		"Calder, Mary A."	removed	removed	removed	removed	removed
+16686	Albert Leopold	removed	17	[Conversion]	removed		Individual		"Leopold, Albert"	removed	removed	removed	removed	removed
+16714	Duchess Social Club	removed	17	[Conversion]	removed		Organization		Duchess Social Club	removed	removed	removed	removed	removed
+16942	Westview Baptist Church	removed	17	[Conversion]	removed		House of Faith		Westview Baptist Church	removed	removed	removed	removed	removed
+18198	A Mighty Fortress Lutheran Church	removed	17	[Conversion]	removed		House of Faith		A Mighty Fortress Lutheran Church	removed	removed	removed	removed	removed
+19294	Dorothy K. Schulman	removed	17	[Conversion]	removed		Individual		"Schulman, Dorothy K."	removed	removed	removed	removed	removed
+64598	C. Dawn Simpson	removed	17	[Conversion]	removed		Individual		"Simpson, C. Dawn"	removed	removed	removed	removed	removed
+64836	Laura A. Ledford	removed	17	[Conversion]	removed		Individual		"Ledford, Laura A."	removed	removed	removed	removed	removed
+1742	T.J. Lathan	removed	18	[Conversion]	removed		Individual		"Lathan, T.J."	removed	removed	removed	removed	removed
+3275	Muriel MacMillan	removed	18	[Conversion]	removed		Individual		"MacMillan, Muriel"	removed	removed	removed	removed	removed
+9983	Alayne Wills	removed	18	[Conversion]	removed		Individual		"Wills, Alayne"	removed	removed	removed	removed	removed
+14342	Sheila Duyck	removed	18	[Conversion]	removed		Individual		"Duyck, Sheila"	removed	removed	removed	removed	removed
+15292	St. Ann Catholic School	removed	18	[Conversion]	removed	School	Organization		St. Ann Catholic School	removed	removed	removed	removed	removed
+63238	"Bealer Wholesale, Inc."	removed	18	[Conversion]	removed		Business/Corporation		"Bealer Wholesale, Inc."	removed	removed	removed	removed	removed
+66734	Patsy White	removed	18	[Conversion]	removed		Individual		"White, Patsy"	removed	removed	removed	removed	removed
+66783	Myra Denise Brown	removed	18	[Conversion]	removed		Individual		"Brown, Myra Denise"	removed	removed	removed	removed	removed
+497	G.W. Camin	removed	19	[Conversion]	removed		Individual		"Camin, G.W."	removed	removed	removed	removed	removed
+1611	Lisa M. Valdez	removed	19	[Conversion]	removed		Individual		"Valdez, Lisa M."	removed	removed	removed	removed	removed
+18244	Christ the King Lutheran Church	removed	19	[Conversion]	removed		House of Faith		Christ the King Lutheran Church	removed	removed	removed	removed	removed
+19971	Herff Jones	removed	19	[Conversion]	removed		Corporation		Herff Jones	removed	removed	removed	removed	removed
+1814	Richard B. Wells	removed	20	[Conversion]	removed		Individual		"Wells, Richard B."	removed	removed	removed	removed	removed
+5149	Julia T. Tharpe	removed	20	[Conversion]	removed		Individual		"Tharpe, Julia T."	removed	removed	removed	removed	removed
+17229	S. Scott Ferebee Jr.	removed	20	[Conversion]	removed		Individual		"Ferebee, S. Scott Jr."	removed	removed	removed	removed	removed
+1771	Charles E. Lawing	removed	21	[Conversion]	removed		Individual		"Lawing, Charles E."	removed	removed	removed	removed	removed
+14766	Jay P. Coley	removed	21	[Conversion]	removed		Individual		"Coley, Jay P."	removed	removed	removed	removed	removed
+19013	Park Road Moravian Church	removed	21	[Conversion]	removed		House of Faith		Park Road Moravian Church	removed	removed	removed	removed	removed
+64802	Arthur A. Clayton Jr.	removed	21	[Conversion]	removed		Individual		"Clayton, Arthur A. Jr."	removed	removed	removed	removed	removed
+2410	Edward Maag	removed	22	[Conversion]	removed		Individual		"Maag, Edward"	removed	removed	removed	removed	removed
+4751	Wilora Lake Lodge	removed	22	[Conversion]	removed		Corporation		Wilora Lake Lodge	removed	removed	removed	removed	removed
+5585	Laura Frances Yandell	removed	22	[Conversion]	removed		Individual		"Yandell, Laura Frances"	removed	removed	removed	removed	removed
+11584	Alice Coggin	removed	22	[Conversion]	removed		Individual		"Coggin, Alice"	removed	removed	removed	removed	removed
+14524	Susie McKinney	removed	22	[Conversion]	removed		Individual		"McKinney, Susie"	removed	removed	removed	removed	removed
+17679	Henry C. Schatz	removed	22	[Conversion]	removed		Individual		"Schatz, Henry C."	removed	removed	removed	removed	removed
+17743	Bessie C. Hood	removed	22	[Conversion]	removed		Individual		"Hood, Bessie C."	removed	removed	removed	removed	removed
+20869	Lillian Dorer	removed	22	[Conversion]	removed		Individual		"Dorer, Lillian"	removed	removed	removed	removed	removed
+66607	Betty W. Stuart	removed	22	[Conversion]	removed		Individual		"Stuart, Betty W."	removed	removed	removed	removed	removed
+1498	Tom M. Charping	removed	23	[Conversion]	removed		Individual		"Charping, Tom M."	removed	removed	removed	removed	removed
+4456	Richard Scire	removed	23	[Conversion]	removed		Individual		"Scire, Richard"	removed	removed	removed	removed	removed
+6732	Darrell E. Holman	removed	23	[Conversion]	removed		Individual		"Holman, Darrell E."	removed	removed	removed	removed	removed
+16322	Mary Sewell Helvey	removed	23	[Conversion]	removed		Individual		"Helvey, Mary Sewell"	removed	removed	removed	removed	removed
+17759	Eddie E. Jones Jr.	removed	23	[Conversion]	removed		Individual		"Jones, Eddie E. Jr."	removed	removed	removed	removed	removed
+7095	Teresa M. Davis	removed	24	[Conversion]	removed		Individual		"Davis, Teresa M."	removed	removed	removed	removed	removed
+7098	Lucy Frohn	removed	24	[Conversion]	removed		Individual		"Frohn, Lucy"	removed	removed	removed	removed	removed
+16308	Elizabeth H. Locke	removed	24	[Conversion]	removed		Individual		"Locke, Elizabeth H."	removed	removed	removed	removed	removed
+19158	Covenant Life Church	removed	24	[Conversion]	removed		House of Faith		Covenant Life Church	removed	removed	removed	removed	removed
+17448	Renovatus Church	removed	25	[Conversion]	removed		House of Faith		Renovatus Church	removed	removed	removed	removed	removed
+14919	Mark Reynolds	removed	26	[Conversion]	removed		Individual		"Reynolds, Mark"	removed	removed	removed	removed	removed
+16844	Union Grove Baptist Church	removed	26	[Conversion]	removed		House of Faith		Union Grove Baptist Church	removed	removed	removed	removed	removed
+18318	Incarnation Lutheran Church	removed	26	[Conversion]	removed		House of Faith		Incarnation Lutheran Church	removed	removed	removed	removed	removed
+18411	Asbury United Methodist Church	removed	26	[Conversion]	removed		House of Faith		Asbury United Methodist Church	removed	removed	removed	removed	removed
+19678	Good Shepherd Presbyterian Church	removed	26	[Conversion]	removed		House of Faith		Good Shepherd Presbyterian Church	removed	removed	removed	removed	removed
+14349	L.H. Maye	removed	28	[Conversion]	removed		Individual		"Maye, L.H."	removed	removed	removed	removed	removed
+20558	Jack H. Sink	removed	28	[Conversion]	removed		Individual		"Sink, Jack H."	removed	removed	removed	removed	removed
+65829	Randall B. Cassels	removed	28	[Conversion]	removed		Individual|Recipient		"Cassels, Randall B."	removed	removed	removed	removed	removed
+16501	Katherine M. Cipriano	removed	29	[Conversion]	removed		Individual		"Cipriano, Katherine M."	removed	removed	removed	removed	removed
+17651	St. Alban's Episcopal Church	removed	29	[Conversion]	removed		House of Faith		St. Alban's Episcopal Church	removed	removed	removed	removed	removed
+18595	Margaret Kennedy	removed	29	[Conversion]	removed		Individual		"Kennedy, Margaret"	removed	removed	removed	removed	removed
+20875	Judith Breault	removed	29	[Conversion]	removed		Individual		"Breault, Judith"	removed	removed	removed	removed	removed
+13133	Brian Center Retirement Apartments	removed	30	[Conversion]	removed		Corporation		Brian Center Retirement Apartments	removed	removed	removed	removed	removed
+15127	James H. Major	removed	30	[Conversion]	removed		Individual		"Major, James H."	removed	removed	removed	removed	removed
+16006	Mildred T. Workman	removed	30	[Conversion]	removed		Individual		"Workman, Mildred T."	removed	removed	removed	removed	removed
+18357	Redeemer Lutheran Church	removed	30	[Conversion]	removed		House of Faith		Redeemer Lutheran Church	removed	removed	removed	removed	removed
+16521	BJ'S Wholesale Club	removed	31	[Conversion]	removed		Corporation		BJ'S Wholesale Club	removed	removed	removed	removed	removed
+15437	Ruth L. Anderson	removed	32	[Conversion]	removed		Individual		"Anderson, Ruth L."	removed	removed	removed	removed	removed
+1423	Boyce McNair Brown Jr.	removed	33	[Conversion]	removed		Individual		"Brown, Boyce McNair Jr."	removed	removed	removed	removed	removed
+20183	Wilma Hennig	removed	33	[Conversion]	removed		Individual		"Hennig, Wilma"	removed	removed	removed	removed	removed
+63184	Carmel Presbyterian Church	removed	33	[Conversion]	removed		Church/Community Organization		Carmel Presbyterian Church	removed	removed	removed	removed	removed
+17167	Westview Christian Church	removed	34	[Conversion]	removed		House of Faith		Westview Christian Church	removed	removed	removed	removed	removed
+20530	Kenneth Burton	removed	34	[Conversion]	removed		Individual		"Burton, Kenneth"	removed	removed	removed	removed	removed
+6182	Carl A. Baker	removed	35	[Conversion]	removed		Individual		"Baker, Carl A."	removed	removed	removed	removed	removed
+18816	Purcell-Big Spring United Methodist Church	removed	35	[Conversion]	removed		House of Faith		Purcell-Big Spring United Methodist Church	removed	removed	removed	removed	removed
+488	Eric Stanley	removed	36	[Conversion]	removed		Individual		"Stanley, Eric"	removed	removed	removed	removed	removed
+15681	Patricia C. Craddock	removed	38	[Conversion]	removed		Individual		"Craddock, Patricia C."	removed	removed	removed	removed	removed
+17608	All Saints Episcopal	removed	38	[Conversion]	removed		House of Faith		All Saints Episcopal	removed	removed	removed	removed	removed
+920	Elizabeth E. Long	removed	40	[Conversion]	removed		Individual		"Long, Elizabeth E."	removed	removed	removed	removed	removed
+3664	Louise Morris	removed	40	[Conversion]	removed		Individual		"Morris, Louise"	removed	removed	removed	removed	removed
+19731	Hickory Grove Presbyterian Church	removed	40	[Conversion]	removed		House of Faith		Hickory Grove Presbyterian Church	removed	removed	removed	removed	removed
+970	Target Stores	removed	41	[Conversion]	removed		Corporation		Target Stores	removed	removed	removed	removed	removed
+15023	Lorraine Ewing	removed	41	[Conversion]	removed		Individual		"Ewing, Lorraine"	removed	removed	removed	removed	removed
+65267	Lorrina Eastman	removed	42	[Conversion]	removed		Individual		"Eastman, Lorrina"	removed	removed	removed	removed	removed
+6307	Maid in Heaven	removed	47	[Conversion]	removed		Corporation		Maid in Heaven	removed	removed	removed	removed	removed
+16921	Westmoreland Baptist Church	removed	47	[Conversion]	removed		House of Faith		Westmoreland Baptist Church	removed	removed	removed	removed	removed
+11126	Elizabeth K. Borries	removed	49	[Conversion]	removed		Individual		"Borries, Elizabeth K."	removed	removed	removed	removed	removed

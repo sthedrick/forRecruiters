@@ -1,0 +1,140 @@
+﻿Latitude,Longitude,Route1,Saturday,Address,Meals,Name,NewRoute,Total,Distinct count of Name
+27.0553,-82.3124,9,True,"20418 Galileo Pl, North Port FL",1,SypekWieslawa,9,6,1
+27.0541,-82.2634,9,True,"12132 Capilla Ln, North Port FL",1,PriceLuba,9,6,1
+27.0533,-82.2672,9,True,"12035 Dorado Dr, North Port FL",1,*,9,6,2
+27.0505,-82.2658,9,True,"216 San Remo Ave, North Port FL",1,*,9,6,2
+27.0493,-82.254,9,True,"8820 Agress Ave, North Port FL",1,*,9,6,2
+27.049,-82.2495,9,True,"8188 Agress Ave, North Port FL",1,TrappNorm,9,6,1
+27.0489,-82.2491,9,True,"8158 Agress Ave, North Port FL",1,DixneufEmma,9,6,1
+27.0483,-82.3418,9,True,"13430 Attaviano St, North Port FL",1,SchoenSandy,9,3,1
+27.0478,-82.2489,9,True,"8129 Fay Ave, North Port FL",1,MasseyRollin,9,6,1
+27.0328,-82.3463,9,True,"13644 Trentino St, North Port FL",1,MacriJustin,9,3,1
+27.0221,-82.3326,9,True,"12783 Brookgreen St, North Port FL",1,OwensJanine,9,6,1
+27.0758,-82.1891,8,True,"3386 Tusket Ave, North Port FL",1,Tecce*Mike,8,5,1
+27.0589,-82.1668,8,True,"2221 Shalimar Terrace, North Port FL",1,*,8,6,2
+27.051,-82.1891,8,True,"2920 Coldwater Ln, North Port FL",1,NicholsonStacey,8,6,1
+27.0466,-82.2119,8,True,"4768 Escalante Dr, North Port FL",1,GerstungJohn,8,6,1
+27.0421,-82.2378,8,True,"6066 Mayberry Ave, North Port FL",1,FurfaroMarilyn,8,5,1
+27.0399,-82.2367,8,True,"5944 Spearman Cir, North Port FL",1,FraserHugh,8,6,1
+27.0371,-82.2297,8,True,"5791 Holiday Park Blvd, North Port FL",1,MierkiewiczMillie,8,6,1
+27.0367,-82.2381,8,True,"5998 Kenwood Dr, North Port FL",1,LugoGenoveva,8,6,1
+27.0346,-82.2258,8,True,"6847 Anapa Ct, North Port FL",1,WhiddenSharon,8,6,1
+27.1175,-82.2244,7,True,"6602 Abdella Ln, North Port FL",1,VasasElaine,7,6,1
+27.094,-82.2494,7,True,"4058 N Biscayne Dr, North Port FL",1,CampbellSabine,7,6,1
+27.0777,-82.2505,7,True,"8341 W Price Blvd, North Port FL",1,HritskoLuba,7,6,1
+27.0703,-82.246,7,True,"8263 Bessemer Ave, North Port FL",1,ThompsonJeanette,7,6,1
+27.0681,-82.2339,7,True,"1630 Mossy Oak Dr, North Port FL",1,WrightRonald,7,6,1
+27.0645,-82.232,7,True,"6716 Dennison Ave, North Port FL",1,MurgatroydJeff,7,6,1
+27.0551,-82.2463,7,True,"4241 S Biscayne Dr, North Port FL",1,SkordosGeorge (Joe),7,6,1
+27.0519,-82.2499,7,True,"8260 Shumock Ave, North Port FL",1,EidysElizabeth,7,6,1
+27.0502,-82.2471,7,True,"5200 S Biscayne Dr, North Port FL",1,BontragerDennis,7,6,1
+27.0602,-82.2645,6,True,"12065 Margarita Ave, North Port FL",1,CaldwellEnoch,6,6,1
+27.0566,-82.2602,6,True,"461 Zamora Ave, North Port FL",1,CaratanasovVictor,6,6,1
+27.054,-82.2535,6,True,"4760 Bullard St, North Port FL",1,Craig*Kathleen,6,6,1
+27.0539,-82.2535,6,True,"4760 Bullard St, North Port FL",1,Craig*Richard,6,6,1
+27.0517,-82.2535,6,True,"5130 Bullard St, North Port FL",1,FavataSharlene,6,6,1
+27.0513,-82.2648,6,True,"224 San Carlos Ave, North Port FL",1,WnorowskiRegina,6,4,1
+27.051,-82.2535,6,True,"5250 Bullard St, North Port FL",1,SmoliniecDan,6,6,1
+27.0416,-82.2481,6,True,"6302 Sooner St, North Port FL",2,CunninghamJohn (Philip),6,12,1
+27.0409,-82.2466,6,True,"6380 S Biscayne Dr, North Port FL",1,CaseyShirley,6,6,1
+27.0398,-82.2549,6,True,"6329 Malaluka Rd, North Port FL",1,*,6,3,2
+27.0388,-82.2512,6,True,"6571 Marius Rd, North Port FL",1,TrombkaChristopher (Chris),6,3,1
+27.0382,-82.2541,6,True,"6422 Midas Pl, North Port FL",1,*,6,6,2
+27.0377,-82.2424,6,True,"6540 Kenwood Dr, North Port FL",1,*,6,6,2
+27.097,-82.1908,5,True,"4635 Caviar St, North Port FL",1,LopezCarol,5,6,1
+27.089,-82.1967,5,True,"4288 Dureve Ave, North Port FL",1,GrantMichelle,5,6,1
+27.0867,-82.1904,5,True,"3674 Coquina Ave, North Port FL",1,*,5,6,2
+27.0821,-82.1984,5,True,"4243 Fonsica Ave, North Port FL",1,CurrierMarie,5,6,1
+27.082,-82.1965,5,True,"4083 Fonsica Ave, North Port FL",1,*,5,5,2
+27.057,-82.1945,5,True,"2793 Pope St, North Port FL",1,CipollaCharles,5,6,1
+27.0472,-82.207,5,True,"4433 Persian Ln, North Port FL",1,HeselerWalter,5,6,1
+27.0465,-82.2036,5,True,"4146 Montague Ln, North Port FL",1,ReillyElaine,5,6,1
+27.0452,-82.2018,5,True,"4235 Kessler Terrace, North Port FL",1,DicksonCatherine,5,6,1
+27.0434,-82.2057,5,True,"4565 Hamwood St, North Port FL",1,StarbeckJohn,5,6,1
+27.0429,-82.203,5,True,"3923 Aba Ln, North Port FL",1,BrunettiViola,5,6,1
+27.0397,-82.2085,5,True,"5379 Barlow Terrace, North Port FL",1,KnappMargarete,5,3,1
+27.0386,-82.204,5,True,"5358 Ansonia Terrace, North Port FL",1,McChesneySandra,5,6,1
+27.0362,-82.2055,5,True,"3850 Barbary Ln, North Port FL",1,SumakovAlex,5,6,1
+27.045,-82.2696,4,True,"210 Blackburn Blvd, North Port FL",1,NeeleyLinda,4,6,1
+27.0442,-82.2771,4,True,"608 Portside Dr, North Port FL",1,BurnsJeani,4,3,1
+27.044,-82.284,4,True,,0,SibleyMargaret,4,0,1
+27.043,-82.2738,4,True,"319 Anchors Way, North Port FL",1,FleishEdward,4,4,1
+27.0425,-82.272,4,True,"217 Schooner St, North Port FL",1,ButterwickJim,4,6,1
+27.0419,-82.2776,4,True,"499 Amberjack Dr, North Port FL",1,MacGrayCarol,4,3,1
+27.0409,-82.2704,4,True,"103 Lakeview Dr, North Port FL",1,FarinoLouis,4,4,1
+27.0407,-82.2779,4,True,"798 Fairmount Dr, North Port FL",1,*,4,3,2
+27.0403,-82.2785,4,True,"790 Fairmount Dr, North Port FL",1,FiddesClark,4,3,1
+27.0399,-82.2794,4,True,"725 Fairmount Dr, North Port FL",1,VukovichJoseph,4,6,1
+27.0395,-82.2621,4,True,"304 Las Maria, North Port FL",1,HoweKaren,4,5,1
+27.0374,-82.2617,4,True,"552 Madero, North Port FL",1,*,4,6,2
+27.0347,-82.2669,4,True,"637 La Jolla Cir, North Port FL",1,*,4,6,2
+27.0589,-82.3247,3,True,"3473 Lakewood Blvd, North Port FL",1,Schmedes*Richard,3,6,1
+27.0587,-82.2148,3,True,"5142 Pine Shadow Ln, North Port FL",1,FaiellaPaul,3,6,1
+27.0562,-82.2077,3,True,"4623 Prophet Ave, North Port FL",1,*,3,6,2
+27.0549,-82.2304,3,True,"3473 Lakewood Blvd, North Port FL",1,Schmedes*Ann,3,6,1
+27.0535,-82.2237,3,True,"4855 Whispering Oaks Dr, North Port FL",1,DeMariaSharon,3,6,1
+27.0484,-82.24,3,True,"6931 Willow Creek Cir, North Port FL",1,Colvin*Jeffrey,3,6,1
+27.0483,-82.2401,3,True,"6931 Willow Creek Cir, North Port FL",1,*,3,6,2
+27.0481,-82.2411,3,True,"6961 Willow Creek Cir, North Port FL",1,*,3,*,2
+27.0472,-82.2397,3,True,"6871 Willow Creek Cir, North Port FL",1,WagonerCathy,3,6,1
+27.0471,-82.2397,3,True,"6871 Willow Creek Cir, North Port FL",1,MelitiThelma,3,6,1
+27.0471,-82.2406,3,True,"6821 Willow Creek Cir, North Port FL",1,SmithRyan,3,6,1
+27.0468,-82.2414,3,True,"6801 Willow Creek Cir, North Port FL",1,SorensonLaurie,3,4,1
+27.0467,-82.2404,3,True,"6841 Willow Creek Cir, North Port FL",1,O'HaganPam,3,4,1
+27.0432,-82.2239,3,True,"5891 Mashie Cir, North Port FL",1,YeagerMichael,3,6,1
+27.0832,-82.1653,2,True,"3139 Point St, North Port FL",1,LelandMary,2,6,1
+27.0714,-82.1781,2,True,"2582 Alesio Ave, North Port FL",1,AustinDeborah,2,6,1
+27.0682,-82.1697,2,True,"2103 W Price Blvd, North Port FL",1,*,2,6,2
+27.0679,-82.1694,2,True,"2066 Jameson Ave, North Port FL",1,PashtenkoNena,2,6,1
+27.0678,-82.1657,2,True,"1842 Marconi Ave, North Port FL",1,"Sizemore, Sr.Jim",2,6,1
+27.0675,-82.1756,2,True,"2451 Altoona Ave, North Port FL",1,NesbittCorinne (Cory),2,5,1
+27.0665,-82.1617,2,True,"1207 Citizens Pkwy, North Port FL",1,*,2,6,2
+27.0564,-82.1773,2,True,"2789 Rhumba Terrace, North Port FL",1,RodriguezDavid,2,6,1
+27.055,-82.174,2,True,"2241 Honey Ln, North Port FL",1,*,2,6,2
+27.0809,-82.1518,1,True,"2457 Magnolia Cir, North Port FL",1,*,1,6,2
+27.0466,-82.1526,1,True,"3408 Royal Palm Dr, North Port FL",1,HallFred,1,6,1
+27.0443,-82.2491,1,True,"8146 Hyde Park Ave, North Port FL",1,*,1,6,2
+27.0392,-82.1441,1,True,"4444 Delwood Dr, North Port FL",1,PeterszbeckAnna,1,6,1
+27.1165,-82.194,10,False,"4207 Wampee Dr, North Port FL",1,KnoellerCarol,10,4,1
+27.0477,-82.3406,9,False,"6073 Erice St, North Port FL",1,BonkRuth,9,5,1
+27.0472,-82.3505,9,False,"19698 Ortona St, North Port FL",1,RichardsonFrances,9,3,1
+27.0299,-82.3466,9,False,"13640 Ricci St, North Port FL",1,HoroskiBarbara,9,3,1
+27.0499,-82.2125,8,False,"4001 Fontainebleau St, North Port FL",1,*,8,3,2
+27.0451,-82.2147,8,False,"4732 Pocatella Ave, North Port FL",1,MarquesAvis,8,3,1
+27.0389,-82.2279,8,False,"5440 Joy Ct, North Port FL",1,DavisKatherine,8,3,1
+27.0362,-82.2221,8,False,"6438 Haele Ct, North Port FL",1,*,8,3,2
+27.0356,-82.2319,8,False,"5480 Kenwood Dr, North Port FL",1,CapoJohn,8,5,1
+27.035,-82.2276,8,False,"6890 Alani Ct, North Port FL",1,Mayer*Joan,8,3,1
+27.0346,-82.2227,8,False,"6882 Holo Ct, North Port FL",1,CrosbyNancy,8,5,1
+27.0345,-82.2229,8,False,"6881 Holo Ct, North Port FL",1,DeeryMaryBeth,8,5,1
+27.1152,-82.2166,7,False,"6354 Dunbarton St, North Port FL",1,*,7,3,2
+27.095,-82.2274,7,False,"6633 Hornbuckle Blvd, North Port FL",1,KnoxJeff,7,5,1
+27.0892,-82.2348,7,False,"3503 Armour Terrace, North Port FL",1,SweetingCalvin,7,4,1
+27.0792,-82.2505,7,False,"8350 Raoul Ave, North Port FL",1,GagnonJohn (Jack),7,3,1
+27.0789,-82.2325,7,False,"6579 Glacier Ave, North Port FL",1,*,7,5,2
+27.0596,-82.2528,7,False,"8743 Culebra Ave, North Port FL",1,GronskyDebra,7,5,1
+27.0569,-82.2491,7,False,"4053 Gorgas St, North Port FL",1,*,7,4,2
+27.0563,-82.238,7,False,"3944 Nekoosa St, North Port FL",1,SteeleLaura,7,3,1
+27.0353,-82.2546,6,False,"6861 Marius Rd, North Port FL",1,MaxeyJune,6,3,1
+27.0156,-82.2435,6,False,"12401 Koenig Ln, North Port FL",1,*,6,3,2
+27.0704,-82.2034,5,False,"1049 Race Ct, North Port FL",1,YaridBrenda,5,5,1
+27.0424,-82.2775,4,False,"502 Amberjack Dr, North Port FL",1,*,4,4,2
+27.0382,-82.2589,4,False,"8620 Eagle Bay Ct, North Port FL",1,McNeillyBarbara,4,5,1
+27.0369,-82.2746,4,False,"551 Parkwood Ave, North Port FL",1,IrvingKathrine,4,3,1
+27.0365,-82.2777,4,False,"788 Imperial Dr, North Port FL",1,SmithRosanne,4,3,1
+27.0589,-82.3247,3,False,"5009 Whispering Oaks Dr, North Port FL",1,LundquistDavid,3,3,1
+27.0472,-82.2397,3,False,"6871 Willow Creek Cir, North Port FL",1,ChapmanJudy,3,3,1
+27.044,-82.2333,3,False,"5851 Espanola Ave, North Port FL",1,DelgadoJoan,3,5,1
+27.0769,-82.1853,2,False,"3091 Traverse Ave, North Port FL",1,SwannJenny,2,5,1
+27.0594,-82.1742,2,False,"2613 Nellie Ln, North Port FL",1,AndersonNorman,2,5,1
+27.047,-82.178,2,False,"3721 Monday Terrace, North Port FL",1,LuisoMiguel,2,3,1
+27.0425,-82.1872,2,False,"2682 Pronto Ln, North Port FL",1,BeauchampHebe,2,3,1
+27.0407,-82.1803,2,False,"4521 Heather Terrace, North Port FL",1,GalsterMarian,2,3,1
+27.0348,-82.1796,2,False,"5391 Dakota Terrace, North Port FL",1,*,2,3,2
+27.0903,-82.1374,1,False,"2605 Daisy Dr, North Port FL",1,*,1,3,2
+27.0677,-82.1271,1,False,"2533 Longworthy Rd, North Port FL",1,PerryLarry,1,5,1
+27.0589,-82.3247,1,False,*,1,*,1,*,3
+27.048,-82.1482,1,False,"1604 Palmetto Palm Way, North Port FL",1,*,1,3,2
+27.0471,-82.1471,1,False,"1676 Palmetto Palm Way, North Port FL",1,DunnMaggie (Bob),1,3,1
+27.0378,-82.1691,1,False,"5283 Balmor Terrace, North Port FL",1,HighcockBarbara,1,3,1
+,,,,end of range,,,,,0

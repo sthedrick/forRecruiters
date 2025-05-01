@@ -1,0 +1,40 @@
+Account Number	Household Name	Lookup	Sum of Amount of Transactions	Number of Transactions	Created By	Created Date	Last Modified By	Last Modified Date	Name	Sort Name	Primary Street	Latest Transaction Date	Constituent Code	Classification
+50205	William Clark	50205		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	William Clark	"Clark, William"	xxx removed			
+50523	Teresa Skeen	50523		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Teresa Skeen	"Skeen, Teresa"	xxx removed			Individual
+50614	Sharon Sneed	50614		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Sharon Sneed	"Sneed, Sharon"	xxx removed			
+50815	Jeanne Duffy	50815		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Jeanne Duffy	"Duffy, Jeanne"	xxx removed			Individual
+50820	Fred Pasotto	50820		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Fred Pasotto	"Pasotto, Fred"	xxx removed			Individual
+50844	Gerald McClure	50844		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Gerald McClure	"McClure, Gerald"	xxx removed			
+50963	Scott Howes	50963		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Scott Howes	"Howes, Scott"	xxx removed			
+50989	Tina Mason	50989		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Tina Mason	"Mason, Tina"	xxx removed			
+51119	Karen Pierce	51119		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Karen Pierce	"Pierce, Karen"	xxx removed			
+51326	Eleanor Prosser	51326		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Eleanor Prosser	"Prosser, Eleanor"	xxx removed			
+51342	Marilyn Rowse	51342		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Marilyn Rowse	"Rowse, Marilyn"	xxx removed			
+51499	Kay Costanza	51499		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Kay Costanza	"Costanza, Kay"	xxx removed			
+51538	Keith Marshall	51538		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Keith Marshall	"Marshall, Keith"	xxx removed			
+51649	Charles Butler	51649		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Charles Butler	"Butler, Charles"	xxx removed			
+51658	John Morton	51658		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	John Morton	"Morton, John"	xxx removed			
+51789	Fay Sinkoe	51789		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Fay Sinkoe	"Sinkoe, Fay"	xxx removed			Individual
+51938	Bobby Brady	51938		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Bobby Brady	"Brady, Bobby"	xxx removed			
+51953	Ross Kivett	51953		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Ross Kivett	"Kivett, Ross"	xxx removed			
+51990	Eloise Sturkey	51990		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Eloise Sturkey	"Sturkey, Eloise"	xxx removed			Individual
+52007	Bernard Zapf	52007		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Bernard Zapf	"Zapf, Bernard"	xxx removed			Individual
+52088	Carol Marsalis	52088		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Carol Marsalis	"Marsalis, Carol"	xxx removed			
+52122	Linda Hatley	52122		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Linda Hatley	"Hatley, Linda"	xxx removed			
+52177	Victor Arnold	52177		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Victor Arnold	"Arnold, Victor"	xxx removed			
+52234	Sharon Noble	52234		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Sharon Noble	"Noble, Sharon"	xxx removed			
+52351	William Transou	52351		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	William Transou	"Transou, William"	xxx removed			Individual
+52356	Jeanne Rockas	52356		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Jeanne Rockas	"Rockas, Jeanne"	xxx removed			
+52419	Louise Tucker	52419		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Louise Tucker	"Tucker, Louise"	xxx removed			
+52470	James Berry	52470		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	James Berry	"Berry, James"	xxx removed			
+52595	Sylvia Powell	52595		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Sylvia Powell	"Powell, Sylvia"	xxx removed			
+52637	Linda Hamby	52637		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Linda Hamby	"Hamby, Linda"	xxx removed			Individual
+52841	Georgia Kirchner	52841		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Georgia Kirchner	"Kirchner, Georgia"	xxx removed			
+52877	Gwen Fisher	52877		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Gwen Fisher	"Fisher, Gwen"	xxx removed			
+52880	Jolene Shuford	52880		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Jolene Shuford	"Shuford, Jolene"	xxx removed			Individual
+52964	Donna Terribile	52964		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Donna Terribile	"Terribile, Donna"	xxx removed			Individual
+53016	Earlene Little	53016		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Earlene Little	"Little, Earlene"	xxx removed			Individual
+53112	Geraldine Rankin	53112		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Geraldine Rankin	"Rankin, Geraldine"	xxx removed			Individual
+53594	Evelyn Love	53594		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Evelyn Love	"Love, Evelyn"	xxx removed			Individual
+53595	Sally Merian	53595		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Sally Merian	"Merian, Sally"	xxx removed			Individual
+53598	Shirley William	53598		0	[Conversion]	9/12/2022 14:06	[Conversion]	9/12/2022 14:06	Shirley William	"William, Shirley"	xxx removed			Individual
